@@ -1,0 +1,22 @@
+# Core Libraries
+torch==2.1.0
+torchvision==0.15.0
+numpy==1.24.4
+pandas==2.1.1
+scikit-learn==1.3.0
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.16.1
+
+# Survival Analysis
+lifelines==0.27.7
+
+# Dimensionality Reduction & Utilities
+umap-learn==0.5.5
+tqdm==4.66.1
+
+# Jupyter Support (Optional for notebooks)
+jupyterlab>=4.0.5
+ipykernel>=6.25.2

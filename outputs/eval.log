@@ -1,0 +1,2065 @@
+2025-04-14 01:55:55,795 - INFO - Silhouette Score: 0.0984
+2025-04-14 01:55:55,795 - WARNING - No 'subtype' labels found. Skipping subtype metrics and visualization.
+2025-04-14 01:58:22,530 - INFO - Silhouette Score: 0.0984
+2025-04-14 01:58:22,531 - WARNING - No 'subtype' labels found. Skipping subtype metrics and visualization.
+2025-04-14 01:58:22,817 - WARNING - Log-rank test skipped: more than 2 clusters
+2025-04-14 02:00:54,910 - INFO - Silhouette Score: 0.0984
+2025-04-14 02:00:54,911 - WARNING - No 'subtype' labels found. Skipping subtype metrics and visualization.
+2025-04-14 02:00:55,190 - WARNING - Log-rank test skipped: more than 2 clusters
+2025-04-14 02:00:55,191 - INFO - Concordance Index (C-index): 0.4266
+2025-04-14 02:00:59,230 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-14 02:01:00,488 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-14 02:16:09,678 - INFO - Silhouette Score: 0.0905
+2025-04-14 02:16:09,678 - WARNING - No 'subtype' labels found. Skipping subtype metrics and visualization.
+2025-04-14 02:16:09,932 - WARNING - Log-rank test skipped: more than 2 clusters
+2025-04-14 02:16:09,932 - INFO - Concordance Index (C-index): 0.4062
+2025-04-14 02:16:14,461 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-14 02:16:15,664 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-14 02:18:09,888 - INFO - Silhouette Score: 0.0680
+2025-04-14 02:18:09,889 - WARNING - No 'subtype' labels found. Skipping subtype metrics and visualization.
+2025-04-14 02:18:10,134 - INFO - Log-rank test p-value: 1.6972e-01
+2025-04-14 02:18:10,135 - INFO - Concordance Index (C-index): 0.6382
+2025-04-14 02:18:15,046 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-14 02:18:16,029 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-14 02:24:45,052 - INFO - Silhouette Score: 0.0462
+2025-04-14 02:24:45,060 - INFO - Accuracy: 0.0000
+2025-04-14 02:24:45,061 - INFO - ARI: 0.0100
+2025-04-14 02:24:45,061 - INFO - NMI: 0.0452
+2025-04-14 02:24:45,061 - INFO - Purity: 0.4022
+2025-04-14 02:28:03,244 - INFO - Silhouette Score: 0.0462
+2025-04-14 02:28:03,249 - INFO - Accuracy: 0.0000
+2025-04-14 02:28:03,250 - INFO - ARI: 0.0100
+2025-04-14 02:28:03,250 - INFO - NMI: 0.0452
+2025-04-14 02:28:03,250 - INFO - Purity: 0.4022
+2025-04-14 02:30:00,162 - INFO - Silhouette Score: 0.0462
+2025-04-14 02:30:00,167 - INFO - Accuracy: 0.0000
+2025-04-14 02:30:00,167 - INFO - ARI: 0.0100
+2025-04-14 02:30:00,167 - INFO - NMI: 0.0452
+2025-04-14 02:30:00,167 - INFO - Purity: 0.4022
+2025-04-14 02:31:03,440 - INFO - Silhouette Score: 0.0462
+2025-04-14 02:31:03,445 - INFO - Accuracy: 0.0000
+2025-04-14 02:31:03,445 - INFO - ARI: 0.0100
+2025-04-14 02:31:03,445 - INFO - NMI: 0.0452
+2025-04-14 02:31:03,445 - INFO - Purity: 0.4022
+2025-04-14 02:31:23,062 - INFO - Silhouette Score: 0.0462
+2025-04-14 02:31:23,068 - INFO - Accuracy: 0.0000
+2025-04-14 02:31:23,068 - INFO - ARI: 0.0100
+2025-04-14 02:31:23,068 - INFO - NMI: 0.0452
+2025-04-14 02:31:23,068 - INFO - Purity: 0.4022
+2025-04-14 02:33:05,439 - INFO - Silhouette Score: 0.0462
+2025-04-14 02:33:05,444 - INFO - Accuracy: 0.0000
+2025-04-14 02:33:05,444 - INFO - ARI: 0.0100
+2025-04-14 02:33:05,444 - INFO - NMI: 0.0452
+2025-04-14 02:33:05,444 - INFO - Purity: 0.4022
+2025-04-14 02:34:31,201 - INFO - Silhouette Score: 0.0462
+2025-04-14 02:34:31,207 - INFO - Accuracy: 0.0000
+2025-04-14 02:34:31,207 - INFO - ARI: 0.0100
+2025-04-14 02:34:31,207 - INFO - NMI: 0.0452
+2025-04-14 02:34:31,207 - INFO - Purity: 0.4022
+2025-04-14 02:34:38,383 - INFO - Log-rank test p-value: 2.9717e-01
+2025-04-14 02:34:38,384 - INFO - Concordance Index (C-index): 0.5577
+2025-04-14 02:35:53,729 - INFO - Silhouette Score: 0.0462
+2025-04-14 02:35:53,735 - INFO - Accuracy: 0.0000
+2025-04-14 02:35:53,735 - INFO - ARI: 0.0100
+2025-04-14 02:35:53,735 - INFO - NMI: 0.0452
+2025-04-14 02:35:53,735 - INFO - Purity: 0.4022
+2025-04-14 02:36:00,673 - INFO - Log-rank test p-value: 2.9717e-01
+2025-04-14 02:36:00,673 - INFO - Concordance Index (C-index): 0.5577
+2025-04-14 02:36:04,999 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-14 02:36:06,053 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-14 02:37:35,448 - INFO - Silhouette Score: 0.0462
+2025-04-14 02:37:35,453 - INFO - Accuracy: 0.0000
+2025-04-14 02:37:35,453 - INFO - ARI: 0.0100
+2025-04-14 02:37:35,453 - INFO - NMI: 0.0452
+2025-04-14 02:37:35,453 - INFO - Purity: 0.4022
+2025-04-14 02:37:42,416 - INFO - Log-rank test p-value: 2.9717e-01
+2025-04-14 02:37:42,416 - INFO - Concordance Index (C-index): 0.5577
+2025-04-14 02:37:46,830 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-14 02:37:47,820 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-14 02:38:29,331 - INFO - Silhouette Score: 0.0462
+2025-04-14 02:38:29,337 - INFO - Accuracy: 0.0000
+2025-04-14 02:38:29,337 - INFO - ARI: 0.0100
+2025-04-14 02:38:29,337 - INFO - NMI: 0.0452
+2025-04-14 02:38:29,337 - INFO - Purity: 0.4022
+2025-04-14 02:38:36,492 - INFO - Log-rank test p-value: 2.9717e-01
+2025-04-14 02:38:36,493 - INFO - Concordance Index (C-index): 0.5577
+2025-04-14 02:38:41,640 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-14 02:38:42,619 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 00:19:36,074 - INFO - Silhouette Score: 0.0797
+2025-04-17 00:19:36,080 - INFO - Accuracy: 0.0000
+2025-04-17 00:19:36,080 - INFO - ARI: 0.0276
+2025-04-17 00:19:36,080 - INFO - NMI: 0.0799
+2025-04-17 00:19:36,080 - INFO - Purity: 0.4783
+2025-04-17 00:19:44,105 - WARNING - Log-rank test skipped: more than 2 clusters
+2025-04-17 00:19:44,106 - INFO - Concordance Index (C-index): 0.6154
+2025-04-17 00:19:49,419 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 00:19:50,510 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 00:23:11,823 - INFO - Silhouette Score: 0.0797
+2025-04-17 00:23:11,832 - INFO - Accuracy: 0.0000
+2025-04-17 00:23:11,832 - INFO - ARI: 0.0276
+2025-04-17 00:23:11,832 - INFO - NMI: 0.0799
+2025-04-17 00:23:11,832 - INFO - Purity: 0.4783
+2025-04-17 00:25:57,995 - INFO - Silhouette Score: 0.0797
+2025-04-17 00:25:58,001 - INFO - Accuracy: 0.0000
+2025-04-17 00:25:58,001 - INFO - ARI: 0.0276
+2025-04-17 00:25:58,001 - INFO - NMI: 0.0799
+2025-04-17 00:25:58,001 - INFO - Purity: 0.4783
+2025-04-17 00:26:05,957 - INFO - Multivariate Log-rank test p-value: 3.5693e-01
+2025-04-17 00:26:05,957 - INFO - Concordance Index (C-index): 0.6154
+2025-04-17 00:26:11,457 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 00:26:12,462 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 00:28:22,692 - INFO - Silhouette Score: 0.0797
+2025-04-17 00:28:22,697 - INFO - Accuracy: 0.0000
+2025-04-17 00:28:22,697 - INFO - ARI: 0.0276
+2025-04-17 00:28:22,697 - INFO - NMI: 0.0799
+2025-04-17 00:28:22,697 - INFO - Purity: 0.4783
+2025-04-17 00:28:30,222 - INFO - Multivariate Log-rank test p-value: 3.5693e-01
+2025-04-17 00:28:30,222 - INFO - Concordance Index (C-index): 0.6154
+2025-04-17 00:28:33,855 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 00:28:34,877 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 11:12:20,186 - INFO - Silhouette Score: 0.0713
+2025-04-17 11:12:20,200 - INFO - Accuracy: 0.0000
+2025-04-17 11:12:20,200 - INFO - ARI: 0.0287
+2025-04-17 11:12:20,200 - INFO - NMI: 0.0867
+2025-04-17 11:12:20,200 - INFO - Purity: 0.4783
+2025-04-17 11:12:27,641 - INFO - Multivariate Log-rank test p-value: 2.4391e-01
+2025-04-17 11:12:27,642 - INFO - Concordance Index (C-index): 0.6418
+2025-04-17 11:12:31,586 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 11:12:32,656 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 11:20:56,665 - INFO - Silhouette Score: 0.0154
+2025-04-17 11:20:56,670 - INFO - Accuracy: 0.0000
+2025-04-17 11:20:56,670 - INFO - ARI: -0.0087
+2025-04-17 11:20:56,670 - INFO - NMI: 0.0763
+2025-04-17 11:20:56,670 - INFO - Purity: 0.4130
+2025-04-17 11:21:03,187 - INFO - Multivariate Log-rank test p-value: 4.3966e-01
+2025-04-17 11:21:03,188 - INFO - Concordance Index (C-index): 0.3858
+2025-04-17 11:21:08,451 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 11:21:09,452 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 11:28:50,860 - INFO - Silhouette Score: 0.0602
+2025-04-17 11:28:50,877 - INFO - Accuracy: 0.0000
+2025-04-17 11:28:50,877 - INFO - ARI: 0.0242
+2025-04-17 11:28:50,877 - INFO - NMI: 0.0973
+2025-04-17 11:28:50,877 - INFO - Purity: 0.4565
+2025-04-17 11:28:58,375 - INFO - Multivariate Log-rank test p-value: 3.5371e-01
+2025-04-17 11:28:58,376 - INFO - Concordance Index (C-index): 0.3750
+2025-04-17 11:29:03,598 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 11:29:04,746 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 11:46:02,168 - INFO - Silhouette Score: 0.1165
+2025-04-17 11:46:02,180 - INFO - Accuracy: 0.0000
+2025-04-17 11:46:02,180 - INFO - ARI: 0.0422
+2025-04-17 11:46:02,180 - INFO - NMI: 0.0952
+2025-04-17 11:46:02,180 - INFO - Purity: 0.4891
+2025-04-17 11:46:08,791 - INFO - Multivariate Log-rank test p-value: 3.2788e-01
+2025-04-17 11:46:08,791 - INFO - Concordance Index (C-index): 0.4724
+2025-04-17 11:46:13,801 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 11:46:14,850 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 11:59:05,986 - INFO - Silhouette Score: 0.0403
+2025-04-17 11:59:05,992 - INFO - Accuracy: 0.0000
+2025-04-17 11:59:05,992 - INFO - ARI: -0.0000
+2025-04-17 11:59:05,992 - INFO - NMI: 0.0941
+2025-04-17 11:59:05,992 - INFO - Purity: 0.4348
+2025-04-17 11:59:13,418 - INFO - Multivariate Log-rank test p-value: 2.1082e-01
+2025-04-17 11:59:13,419 - INFO - Concordance Index (C-index): 0.6695
+2025-04-17 11:59:17,777 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 11:59:18,810 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 12:02:26,152 - INFO - Silhouette Score: 0.1102
+2025-04-17 12:02:26,158 - INFO - Accuracy: 0.0000
+2025-04-17 12:02:26,158 - INFO - ARI: 0.0097
+2025-04-17 12:02:26,158 - INFO - NMI: 0.0563
+2025-04-17 12:02:26,158 - INFO - Purity: 0.4565
+2025-04-17 12:02:33,748 - INFO - Multivariate Log-rank test p-value: 4.8123e-01
+2025-04-17 12:02:33,748 - INFO - Concordance Index (C-index): 0.4375
+2025-04-17 12:02:38,821 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 12:02:39,885 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 12:05:58,608 - INFO - Silhouette Score: 0.1087
+2025-04-17 12:05:58,614 - INFO - Accuracy: 0.0000
+2025-04-17 12:05:58,614 - INFO - ARI: 0.0206
+2025-04-17 12:05:58,614 - INFO - NMI: 0.0737
+2025-04-17 12:05:58,614 - INFO - Purity: 0.4674
+2025-04-17 12:06:06,568 - INFO - Multivariate Log-rank test p-value: 3.5056e-01
+2025-04-17 12:06:06,568 - INFO - Concordance Index (C-index): 0.6094
+2025-04-17 12:06:11,852 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 12:06:12,880 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 12:17:02,300 - INFO - Silhouette Score: 0.0941
+2025-04-17 12:17:02,307 - INFO - Accuracy: 0.0000
+2025-04-17 12:17:02,307 - INFO - ARI: 0.0149
+2025-04-17 12:17:02,307 - INFO - NMI: 0.0660
+2025-04-17 12:17:02,307 - INFO - Purity: 0.4565
+2025-04-17 12:17:09,731 - INFO - Multivariate Log-rank test p-value: 4.1350e-01
+2025-04-17 12:17:09,731 - INFO - Concordance Index (C-index): 0.5216
+2025-04-17 12:17:14,190 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 12:17:15,196 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 12:25:28,897 - INFO - Silhouette Score: 0.0635
+2025-04-17 12:25:28,903 - INFO - Accuracy: 0.0000
+2025-04-17 12:25:28,903 - INFO - ARI: 0.0416
+2025-04-17 12:25:28,903 - INFO - NMI: 0.0912
+2025-04-17 12:25:28,903 - INFO - Purity: 0.5000
+2025-04-17 12:25:36,101 - INFO - Multivariate Log-rank test p-value: 3.0028e-01
+2025-04-17 12:25:36,101 - INFO - Concordance Index (C-index): 0.6010
+2025-04-17 12:25:41,335 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 12:25:42,356 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 12:29:29,561 - INFO - Silhouette Score: 0.0635
+2025-04-17 12:29:29,566 - INFO - Accuracy: 0.0000
+2025-04-17 12:29:29,566 - INFO - ARI: 0.0416
+2025-04-17 12:29:29,566 - INFO - NMI: 0.0912
+2025-04-17 12:29:29,566 - INFO - Purity: 0.5000
+2025-04-17 12:29:35,964 - INFO - Multivariate Log-rank test p-value: 3.0028e-01
+2025-04-17 12:29:35,964 - INFO - Concordance Index (C-index): 0.6010
+2025-04-17 12:29:39,622 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 12:29:40,745 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 12:38:30,207 - INFO - Silhouette Score: 0.0964
+2025-04-17 12:38:30,212 - INFO - Accuracy: 0.0000
+2025-04-17 12:38:30,212 - INFO - ARI: 0.0157
+2025-04-17 12:38:30,212 - INFO - NMI: 0.0709
+2025-04-17 12:38:30,212 - INFO - Purity: 0.4348
+2025-04-17 12:38:37,372 - INFO - Multivariate Log-rank test p-value: 2.2825e-01
+2025-04-17 12:38:37,372 - INFO - Concordance Index (C-index): 0.6671
+2025-04-17 12:38:41,362 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 12:38:42,355 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 14:44:40,139 - INFO - Silhouette Score: 0.0972
+2025-04-17 14:44:40,145 - INFO - Accuracy: 0.0000
+2025-04-17 14:44:40,145 - INFO - ARI: 0.0048
+2025-04-17 14:44:40,145 - INFO - NMI: 0.0514
+2025-04-17 14:44:40,145 - INFO - Purity: 0.4130
+2025-04-17 14:44:46,812 - INFO - Multivariate Log-rank test p-value: 1.4631e-01
+2025-04-17 14:44:46,812 - INFO - Concordance Index (C-index): 0.7055
+2025-04-17 14:44:50,905 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 14:44:51,946 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 14:52:31,558 - INFO - Silhouette Score: 0.1052
+2025-04-17 14:52:31,564 - INFO - Accuracy: 0.0000
+2025-04-17 14:52:31,564 - INFO - ARI: 0.0116
+2025-04-17 14:52:31,564 - INFO - NMI: 0.0577
+2025-04-17 14:52:31,564 - INFO - Purity: 0.4348
+2025-04-17 14:52:38,618 - INFO - Multivariate Log-rank test p-value: 5.0718e-02
+2025-04-17 14:52:38,618 - INFO - Concordance Index (C-index): 0.3305
+2025-04-17 14:52:43,154 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 14:52:44,146 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 15:02:17,987 - INFO - Silhouette Score: 0.0972
+2025-04-17 15:02:17,993 - INFO - Accuracy: 0.0000
+2025-04-17 15:02:17,993 - INFO - ARI: 0.0048
+2025-04-17 15:02:17,993 - INFO - NMI: 0.0514
+2025-04-17 15:02:17,993 - INFO - Purity: 0.4130
+2025-04-17 15:02:25,001 - INFO - Multivariate Log-rank test p-value: 1.4631e-01
+2025-04-17 15:02:25,001 - INFO - Concordance Index (C-index): 0.7055
+2025-04-17 15:02:30,392 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:03:03,557 - INFO - Silhouette Score: 0.0972
+2025-04-17 15:03:03,561 - INFO - Accuracy: 0.0000
+2025-04-17 15:03:03,561 - INFO - ARI: 0.0048
+2025-04-17 15:03:03,561 - INFO - NMI: 0.0514
+2025-04-17 15:03:03,561 - INFO - Purity: 0.4130
+2025-04-17 15:03:10,403 - INFO - Multivariate Log-rank test p-value: 1.4631e-01
+2025-04-17 15:03:10,403 - INFO - Concordance Index (C-index): 0.7055
+2025-04-17 15:03:15,857 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:03:16,917 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 15:13:14,402 - INFO - Silhouette Score: 0.0954
+2025-04-17 15:13:14,412 - INFO - Accuracy: 0.0000
+2025-04-17 15:13:14,412 - INFO - ARI: -0.0039
+2025-04-17 15:13:14,412 - INFO - NMI: 0.0228
+2025-04-17 15:13:14,412 - INFO - Purity: 0.3913
+2025-04-17 15:13:20,801 - INFO - Multivariate Log-rank test p-value: 1.0500e-01
+2025-04-17 15:13:20,802 - INFO - Concordance Index (C-index): 0.7019
+2025-04-17 15:13:25,516 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:13:26,541 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 15:14:39,264 - INFO - Silhouette Score: 0.0788
+2025-04-17 15:14:39,269 - INFO - Accuracy: 0.0000
+2025-04-17 15:14:39,269 - INFO - ARI: 0.0259
+2025-04-17 15:14:39,269 - INFO - NMI: 0.0583
+2025-04-17 15:14:39,269 - INFO - Purity: 0.4565
+2025-04-17 15:14:46,936 - INFO - Multivariate Log-rank test p-value: 1.9886e-01
+2025-04-17 15:14:46,936 - INFO - Concordance Index (C-index): 0.6226
+2025-04-17 15:14:51,890 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:14:52,909 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 15:17:01,835 - INFO - Silhouette Score: 0.0652
+2025-04-17 15:17:01,839 - INFO - Accuracy: 0.0000
+2025-04-17 15:17:01,839 - INFO - ARI: 0.0026
+2025-04-17 15:17:01,839 - INFO - NMI: 0.0446
+2025-04-17 15:17:01,839 - INFO - Purity: 0.4130
+2025-04-17 15:17:09,236 - INFO - Multivariate Log-rank test p-value: 1.8011e-01
+2025-04-17 15:17:09,236 - INFO - Concordance Index (C-index): 0.5373
+2025-04-17 15:17:13,709 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:17:14,625 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 15:17:53,515 - INFO - Silhouette Score: 0.0972
+2025-04-17 15:17:53,520 - INFO - Accuracy: 0.0000
+2025-04-17 15:17:53,520 - INFO - ARI: 0.0048
+2025-04-17 15:17:53,520 - INFO - NMI: 0.0514
+2025-04-17 15:17:53,520 - INFO - Purity: 0.4130
+2025-04-17 15:18:00,545 - INFO - Multivariate Log-rank test p-value: 1.4631e-01
+2025-04-17 15:18:00,546 - INFO - Concordance Index (C-index): 0.7055
+2025-04-17 15:18:05,400 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:18:06,361 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 15:19:21,153 - INFO - Silhouette Score: 0.0972
+2025-04-17 15:19:21,159 - INFO - Accuracy: 0.0000
+2025-04-17 15:19:21,159 - INFO - ARI: 0.0048
+2025-04-17 15:19:21,159 - INFO - NMI: 0.0514
+2025-04-17 15:19:21,159 - INFO - Purity: 0.4130
+2025-04-17 15:19:27,968 - INFO - Multivariate Log-rank test p-value: 1.4631e-01
+2025-04-17 15:19:27,969 - INFO - Concordance Index (C-index): 0.7055
+2025-04-17 15:19:31,922 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:19:32,837 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 15:20:03,258 - INFO - Silhouette Score: 0.0972
+2025-04-17 15:20:03,263 - INFO - Accuracy: 0.0000
+2025-04-17 15:20:03,263 - INFO - ARI: 0.0048
+2025-04-17 15:20:03,263 - INFO - NMI: 0.0514
+2025-04-17 15:20:03,263 - INFO - Purity: 0.4130
+2025-04-17 15:20:10,378 - INFO - Multivariate Log-rank test p-value: 1.4631e-01
+2025-04-17 15:20:10,378 - INFO - Concordance Index (C-index): 0.7055
+2025-04-17 15:20:15,588 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:20:16,523 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 15:20:29,486 - INFO - Silhouette Score: 0.0972
+2025-04-17 15:20:29,490 - INFO - Accuracy: 0.0000
+2025-04-17 15:20:29,490 - INFO - ARI: 0.0048
+2025-04-17 15:20:29,490 - INFO - NMI: 0.0514
+2025-04-17 15:20:29,490 - INFO - Purity: 0.4130
+2025-04-17 15:20:36,664 - INFO - Multivariate Log-rank test p-value: 1.4631e-01
+2025-04-17 15:20:36,664 - INFO - Concordance Index (C-index): 0.7055
+2025-04-17 15:20:41,229 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:20:42,144 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 15:34:25,655 - INFO - Silhouette Score: 0.0392
+2025-04-17 15:34:25,660 - INFO - Accuracy: 0.0000
+2025-04-17 15:34:25,661 - INFO - ARI: -0.0072
+2025-04-17 15:34:25,661 - INFO - NMI: 0.0167
+2025-04-17 15:34:25,661 - INFO - Purity: 0.4130
+2025-04-17 15:34:32,819 - INFO - Multivariate Log-rank test p-value: 9.7718e-01
+2025-04-17 15:34:32,820 - INFO - Concordance Index (C-index): 0.5481
+2025-04-17 15:34:37,232 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:34:38,197 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 15:35:19,873 - INFO - Silhouette Score: 0.0708
+2025-04-17 15:35:19,883 - INFO - Accuracy: 0.0000
+2025-04-17 15:35:19,883 - INFO - ARI: 0.0107
+2025-04-17 15:35:19,883 - INFO - NMI: 0.0457
+2025-04-17 15:35:19,883 - INFO - Purity: 0.4348
+2025-04-17 15:35:27,780 - INFO - Multivariate Log-rank test p-value: 1.7028e-01
+2025-04-17 15:35:27,780 - INFO - Concordance Index (C-index): 0.6334
+2025-04-17 15:35:32,252 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:35:33,183 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 15:36:19,691 - INFO - Silhouette Score: 0.0972
+2025-04-17 15:36:19,696 - INFO - Accuracy: 0.0000
+2025-04-17 15:36:19,696 - INFO - ARI: 0.0048
+2025-04-17 15:36:19,696 - INFO - NMI: 0.0514
+2025-04-17 15:36:19,696 - INFO - Purity: 0.4130
+2025-04-17 15:36:27,115 - INFO - Multivariate Log-rank test p-value: 1.4631e-01
+2025-04-17 15:36:27,115 - INFO - Concordance Index (C-index): 0.7055
+2025-04-17 15:36:31,310 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:36:32,246 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 15:37:02,238 - INFO - Silhouette Score: 0.0972
+2025-04-17 15:37:02,242 - INFO - Accuracy: 0.0000
+2025-04-17 15:37:02,242 - INFO - ARI: 0.0048
+2025-04-17 15:37:02,242 - INFO - NMI: 0.0514
+2025-04-17 15:37:02,242 - INFO - Purity: 0.4130
+2025-04-17 15:37:09,345 - INFO - Multivariate Log-rank test p-value: 1.4631e-01
+2025-04-17 15:37:09,346 - INFO - Concordance Index (C-index): 0.7055
+2025-04-17 15:37:14,026 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:37:14,956 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 15:38:06,934 - INFO - Silhouette Score: 0.0916
+2025-04-17 15:38:06,938 - INFO - Accuracy: 0.0000
+2025-04-17 15:38:06,938 - INFO - ARI: 0.0143
+2025-04-17 15:38:06,938 - INFO - NMI: 0.0662
+2025-04-17 15:38:06,938 - INFO - Purity: 0.4130
+2025-04-17 15:38:11,800 - INFO - Multivariate Log-rank test p-value: 2.5665e-02
+2025-04-17 15:38:11,801 - INFO - Concordance Index (C-index): 0.7296
+2025-04-17 15:38:14,351 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:38:15,268 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 15:39:44,918 - INFO - Silhouette Score: 0.1014
+2025-04-17 15:39:44,922 - INFO - Accuracy: 0.0000
+2025-04-17 15:39:44,922 - INFO - ARI: 0.0142
+2025-04-17 15:39:44,922 - INFO - NMI: 0.0625
+2025-04-17 15:39:44,922 - INFO - Purity: 0.4239
+2025-04-17 15:39:49,603 - INFO - Multivariate Log-rank test p-value: 6.3608e-02
+2025-04-17 15:39:49,603 - INFO - Concordance Index (C-index): 0.2740
+2025-04-17 15:39:52,367 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:39:53,302 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 15:40:41,994 - INFO - Silhouette Score: 0.0908
+2025-04-17 15:40:41,998 - INFO - Accuracy: 0.0000
+2025-04-17 15:40:41,998 - INFO - ARI: 0.0102
+2025-04-17 15:40:41,998 - INFO - NMI: 0.0489
+2025-04-17 15:40:41,998 - INFO - Purity: 0.4348
+2025-04-17 15:40:46,717 - INFO - Multivariate Log-rank test p-value: 2.8842e-01
+2025-04-17 15:40:46,718 - INFO - Concordance Index (C-index): 0.5469
+2025-04-17 15:40:49,726 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:40:50,639 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 15:41:38,766 - INFO - Silhouette Score: 0.1088
+2025-04-17 15:41:38,770 - INFO - Accuracy: 0.0000
+2025-04-17 15:41:38,770 - INFO - ARI: 0.0149
+2025-04-17 15:41:38,770 - INFO - NMI: 0.0681
+2025-04-17 15:41:38,770 - INFO - Purity: 0.4130
+2025-04-17 15:41:43,744 - INFO - Multivariate Log-rank test p-value: 1.0346e-01
+2025-04-17 15:41:43,744 - INFO - Concordance Index (C-index): 0.4363
+2025-04-17 15:41:46,338 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:42:33,653 - INFO - Silhouette Score: 0.1077
+2025-04-17 15:42:33,666 - INFO - Accuracy: 0.0000
+2025-04-17 15:42:33,666 - INFO - ARI: -0.0070
+2025-04-17 15:42:33,666 - INFO - NMI: 0.0389
+2025-04-17 15:42:33,666 - INFO - Purity: 0.4130
+2025-04-17 15:42:38,541 - INFO - Multivariate Log-rank test p-value: 4.5531e-02
+2025-04-17 15:42:38,542 - INFO - Concordance Index (C-index): 0.4207
+2025-04-17 15:42:41,316 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:42:42,283 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 15:43:25,931 - INFO - Silhouette Score: 0.0916
+2025-04-17 15:43:25,935 - INFO - Accuracy: 0.0000
+2025-04-17 15:43:25,935 - INFO - ARI: 0.0143
+2025-04-17 15:43:25,935 - INFO - NMI: 0.0662
+2025-04-17 15:43:25,935 - INFO - Purity: 0.4130
+2025-04-17 15:43:30,921 - INFO - Multivariate Log-rank test p-value: 2.5665e-02
+2025-04-17 15:43:30,921 - INFO - Concordance Index (C-index): 0.7296
+2025-04-17 15:43:33,420 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:43:34,329 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 15:50:50,707 - INFO - Silhouette Score: 0.0916
+2025-04-17 15:50:50,711 - INFO - Accuracy: 0.0000
+2025-04-17 15:50:50,711 - INFO - ARI: 0.0143
+2025-04-17 15:50:50,711 - INFO - NMI: 0.0662
+2025-04-17 15:50:50,711 - INFO - Purity: 0.4130
+2025-04-17 15:50:55,550 - INFO - Multivariate Log-rank test p-value: 2.5665e-02
+2025-04-17 15:50:55,550 - INFO - Concordance Index (C-index): 0.7296
+2025-04-17 15:50:58,220 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:50:59,175 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 15:53:00,492 - INFO - Silhouette Score: 0.0647
+2025-04-17 15:53:00,500 - INFO - Accuracy: 0.0000
+2025-04-17 15:53:00,500 - INFO - ARI: -0.0202
+2025-04-17 15:53:00,500 - INFO - NMI: 0.0414
+2025-04-17 15:53:00,500 - INFO - Purity: 0.4022
+2025-04-17 15:53:05,140 - INFO - Multivariate Log-rank test p-value: 1.6119e-01
+2025-04-17 15:53:05,140 - INFO - Concordance Index (C-index): 0.5601
+2025-04-17 15:53:07,730 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:53:44,939 - INFO - Silhouette Score: 0.1336
+2025-04-17 15:53:44,943 - INFO - Accuracy: 0.0000
+2025-04-17 15:53:44,943 - INFO - ARI: 0.0102
+2025-04-17 15:53:44,943 - INFO - NMI: 0.0541
+2025-04-17 15:53:44,943 - INFO - Purity: 0.4348
+2025-04-17 15:53:49,775 - INFO - Multivariate Log-rank test p-value: 1.2213e-01
+2025-04-17 15:53:49,776 - INFO - Concordance Index (C-index): 0.7067
+2025-04-17 15:53:52,529 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:53:53,490 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 15:54:33,503 - INFO - Silhouette Score: 0.0994
+2025-04-17 15:54:33,511 - INFO - Accuracy: 0.0000
+2025-04-17 15:54:33,512 - INFO - ARI: 0.0032
+2025-04-17 15:54:33,512 - INFO - NMI: 0.0645
+2025-04-17 15:54:33,512 - INFO - Purity: 0.4130
+2025-04-17 15:54:38,167 - INFO - Multivariate Log-rank test p-value: 3.1515e-02
+2025-04-17 15:54:38,167 - INFO - Concordance Index (C-index): 0.6899
+2025-04-17 15:54:40,919 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:55:43,971 - INFO - Silhouette Score: 0.1071
+2025-04-17 15:55:43,975 - INFO - Accuracy: 0.0000
+2025-04-17 15:55:43,975 - INFO - ARI: 0.0059
+2025-04-17 15:55:43,975 - INFO - NMI: 0.0754
+2025-04-17 15:55:43,975 - INFO - Purity: 0.3913
+2025-04-17 15:55:48,917 - INFO - Multivariate Log-rank test p-value: 6.8935e-02
+2025-04-17 15:55:48,917 - INFO - Concordance Index (C-index): 0.3510
+2025-04-17 15:55:51,447 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:55:52,423 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 15:56:43,484 - INFO - Silhouette Score: 0.0916
+2025-04-17 15:56:43,489 - INFO - Accuracy: 0.0000
+2025-04-17 15:56:43,489 - INFO - ARI: 0.0143
+2025-04-17 15:56:43,489 - INFO - NMI: 0.0662
+2025-04-17 15:56:43,489 - INFO - Purity: 0.4130
+2025-04-17 15:56:48,244 - INFO - Multivariate Log-rank test p-value: 2.5665e-02
+2025-04-17 15:56:48,244 - INFO - Concordance Index (C-index): 0.7296
+2025-04-17 15:56:50,935 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:56:51,870 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 15:58:43,464 - INFO - Silhouette Score: 0.0693
+2025-04-17 15:58:43,469 - INFO - Accuracy: 0.0000
+2025-04-17 15:58:43,469 - INFO - ARI: 0.0045
+2025-04-17 15:58:43,469 - INFO - NMI: 0.0604
+2025-04-17 15:58:43,469 - INFO - Purity: 0.3913
+2025-04-17 15:58:48,471 - INFO - Multivariate Log-rank test p-value: 3.1214e-02
+2025-04-17 15:58:48,472 - INFO - Concordance Index (C-index): 0.7091
+2025-04-17 15:58:51,353 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 15:58:52,270 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 16:00:36,361 - INFO - Silhouette Score: 0.0916
+2025-04-17 16:00:36,366 - INFO - Accuracy: 0.0000
+2025-04-17 16:00:36,366 - INFO - ARI: 0.0143
+2025-04-17 16:00:36,366 - INFO - NMI: 0.0662
+2025-04-17 16:00:36,366 - INFO - Purity: 0.4130
+2025-04-17 16:00:41,036 - INFO - Multivariate Log-rank test p-value: 2.5665e-02
+2025-04-17 16:00:41,037 - INFO - Concordance Index (C-index): 0.7296
+2025-04-17 16:00:43,819 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 16:00:44,739 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 16:01:55,485 - INFO - Silhouette Score: 0.0795
+2025-04-17 16:01:55,489 - INFO - Accuracy: 0.0000
+2025-04-17 16:01:55,490 - INFO - ARI: 0.0215
+2025-04-17 16:01:55,490 - INFO - NMI: 0.0819
+2025-04-17 16:01:55,490 - INFO - Purity: 0.4022
+2025-04-17 16:02:00,612 - INFO - Multivariate Log-rank test p-value: 5.2318e-02
+2025-04-17 16:02:00,612 - INFO - Concordance Index (C-index): 0.5733
+2025-04-17 16:02:03,505 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 16:02:33,395 - INFO - Silhouette Score: 0.0737
+2025-04-17 16:02:33,404 - INFO - Accuracy: 0.0000
+2025-04-17 16:02:33,405 - INFO - ARI: 0.0184
+2025-04-17 16:02:33,405 - INFO - NMI: 0.0748
+2025-04-17 16:02:33,405 - INFO - Purity: 0.4022
+2025-04-17 16:02:38,151 - INFO - Multivariate Log-rank test p-value: 9.6635e-02
+2025-04-17 16:02:38,152 - INFO - Concordance Index (C-index): 0.6947
+2025-04-17 16:02:40,965 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 16:03:10,525 - INFO - Silhouette Score: 0.0879
+2025-04-17 16:03:10,530 - INFO - Accuracy: 0.0000
+2025-04-17 16:03:10,530 - INFO - ARI: 0.0022
+2025-04-17 16:03:10,530 - INFO - NMI: 0.0516
+2025-04-17 16:03:10,530 - INFO - Purity: 0.3913
+2025-04-17 16:03:15,218 - INFO - Multivariate Log-rank test p-value: 8.2946e-02
+2025-04-17 16:03:15,218 - INFO - Concordance Index (C-index): 0.3209
+2025-04-17 16:06:19,934 - INFO - Silhouette Score: 0.1004
+2025-04-17 16:06:19,948 - INFO - Accuracy: 0.0000
+2025-04-17 16:06:19,948 - INFO - ARI: 0.0125
+2025-04-17 16:06:19,948 - INFO - NMI: 0.0636
+2025-04-17 16:06:19,948 - INFO - Purity: 0.4348
+2025-04-17 16:06:24,581 - INFO - Multivariate Log-rank test p-value: 8.5698e-02
+2025-04-17 16:06:24,582 - INFO - Concordance Index (C-index): 0.6562
+2025-04-17 16:06:27,253 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 16:06:28,196 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 16:06:57,970 - INFO - Silhouette Score: 0.0596
+2025-04-17 16:06:57,974 - INFO - Accuracy: 0.0000
+2025-04-17 16:06:57,974 - INFO - ARI: 0.0201
+2025-04-17 16:06:57,975 - INFO - NMI: 0.0550
+2025-04-17 16:06:57,975 - INFO - Purity: 0.4565
+2025-04-17 16:07:02,772 - INFO - Multivariate Log-rank test p-value: 1.3475e-01
+2025-04-17 16:07:02,773 - INFO - Concordance Index (C-index): 0.3017
+2025-04-17 16:07:05,297 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 16:07:06,218 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 16:10:53,003 - INFO - Silhouette Score: 0.1253
+2025-04-17 16:10:53,008 - INFO - Accuracy: 0.0000
+2025-04-17 16:10:53,008 - INFO - ARI: -0.0016
+2025-04-17 16:10:53,008 - INFO - NMI: 0.0347
+2025-04-17 16:10:53,008 - INFO - Purity: 0.3913
+2025-04-17 16:10:57,905 - INFO - Multivariate Log-rank test p-value: 1.0933e-01
+2025-04-17 16:10:57,905 - INFO - Concordance Index (C-index): 0.7019
+2025-04-17 16:11:00,744 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 16:11:51,040 - INFO - Silhouette Score: 0.1422
+2025-04-17 16:11:51,045 - INFO - Accuracy: 0.0000
+2025-04-17 16:11:51,045 - INFO - ARI: 0.0078
+2025-04-17 16:11:51,045 - INFO - NMI: 0.0449
+2025-04-17 16:11:51,045 - INFO - Purity: 0.4348
+2025-04-17 16:11:55,690 - INFO - Multivariate Log-rank test p-value: 7.2831e-02
+2025-04-17 16:11:55,691 - INFO - Concordance Index (C-index): 0.6190
+2025-04-17 16:11:58,485 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 16:13:08,195 - INFO - Silhouette Score: 0.2006
+2025-04-17 16:13:08,199 - INFO - Accuracy: 0.0000
+2025-04-17 16:13:08,199 - INFO - ARI: 0.0236
+2025-04-17 16:13:08,199 - INFO - NMI: 0.0956
+2025-04-17 16:13:08,199 - INFO - Purity: 0.4348
+2025-04-17 16:13:13,216 - INFO - Multivariate Log-rank test p-value: 4.8866e-02
+2025-04-17 16:13:13,216 - INFO - Concordance Index (C-index): 0.4543
+2025-04-17 16:13:16,089 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 16:15:56,363 - INFO - Silhouette Score: 0.0916
+2025-04-17 16:15:56,367 - INFO - Accuracy: 0.0000
+2025-04-17 16:15:56,367 - INFO - ARI: 0.0143
+2025-04-17 16:15:56,367 - INFO - NMI: 0.0662
+2025-04-17 16:15:56,367 - INFO - Purity: 0.4130
+2025-04-17 16:16:01,439 - INFO - Multivariate Log-rank test p-value: 2.5665e-02
+2025-04-17 16:16:01,440 - INFO - Concordance Index (C-index): 0.7296
+2025-04-17 16:16:03,962 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 16:16:04,869 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 16:21:12,707 - INFO - Silhouette Score: 0.0916
+2025-04-17 16:21:12,721 - INFO - Accuracy: 0.0000
+2025-04-17 16:21:12,721 - INFO - ARI: 0.0143
+2025-04-17 16:21:12,721 - INFO - NMI: 0.0662
+2025-04-17 16:21:12,721 - INFO - Purity: 0.4130
+2025-04-17 16:21:17,739 - INFO - Multivariate Log-rank test p-value: 2.5665e-02
+2025-04-17 16:21:17,739 - INFO - Concordance Index (C-index): 0.7296
+2025-04-17 16:21:20,512 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 16:21:21,452 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 17:13:35,155 - INFO - Silhouette Score: 0.0941
+2025-04-17 17:13:35,161 - INFO - Accuracy: 0.0000
+2025-04-17 17:13:35,161 - INFO - ARI: 0.0115
+2025-04-17 17:13:35,161 - INFO - NMI: 0.0625
+2025-04-17 17:13:35,161 - INFO - Purity: 0.4022
+2025-04-17 17:13:39,995 - INFO - Multivariate Log-rank test p-value: 4.4660e-02
+2025-04-17 17:13:39,995 - INFO - Concordance Index (C-index): 0.7103
+2025-04-17 17:13:43,087 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 17:13:44,147 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 17:14:26,021 - INFO - Silhouette Score: 0.0948
+2025-04-17 17:14:26,025 - INFO - Accuracy: 0.0000
+2025-04-17 17:14:26,025 - INFO - ARI: 0.0298
+2025-04-17 17:14:26,025 - INFO - NMI: 0.0718
+2025-04-17 17:14:26,025 - INFO - Purity: 0.4674
+2025-04-17 17:14:30,939 - INFO - Multivariate Log-rank test p-value: 1.7806e-01
+2025-04-17 17:14:30,940 - INFO - Concordance Index (C-index): 0.4579
+2025-04-17 17:14:33,612 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 17:15:42,273 - INFO - Silhouette Score: 0.0834
+2025-04-17 17:15:42,289 - INFO - Accuracy: 0.0000
+2025-04-17 17:15:42,289 - INFO - ARI: -0.0025
+2025-04-17 17:15:42,289 - INFO - NMI: 0.0329
+2025-04-17 17:15:42,289 - INFO - Purity: 0.4130
+2025-04-17 17:15:47,144 - INFO - Multivariate Log-rank test p-value: 1.3076e-01
+2025-04-17 17:15:47,145 - INFO - Concordance Index (C-index): 0.6887
+2025-04-17 17:15:49,967 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 17:15:50,963 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 17:17:26,248 - INFO - Silhouette Score: 0.0957
+2025-04-17 17:17:26,253 - INFO - Accuracy: 0.0000
+2025-04-17 17:17:26,253 - INFO - ARI: 0.0107
+2025-04-17 17:17:26,253 - INFO - NMI: 0.0584
+2025-04-17 17:17:26,253 - INFO - Purity: 0.4130
+2025-04-17 17:17:30,919 - INFO - Multivariate Log-rank test p-value: 2.1296e-02
+2025-04-17 17:17:30,920 - INFO - Concordance Index (C-index): 0.3353
+2025-04-17 17:17:33,742 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 17:20:37,751 - INFO - Silhouette Score: 0.0978
+2025-04-17 17:20:37,757 - INFO - Accuracy: 0.0000
+2025-04-17 17:20:37,757 - INFO - ARI: 0.0226
+2025-04-17 17:20:37,757 - INFO - NMI: 0.0630
+2025-04-17 17:20:37,757 - INFO - Purity: 0.4348
+2025-04-17 17:20:42,748 - INFO - Multivariate Log-rank test p-value: 5.1110e-02
+2025-04-17 17:20:42,748 - INFO - Concordance Index (C-index): 0.3245
+2025-04-17 17:20:45,472 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 17:20:46,468 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 17:21:26,665 - INFO - Silhouette Score: 0.0948
+2025-04-17 17:21:26,670 - INFO - Accuracy: 0.0000
+2025-04-17 17:21:26,670 - INFO - ARI: 0.0298
+2025-04-17 17:21:26,670 - INFO - NMI: 0.0718
+2025-04-17 17:21:26,670 - INFO - Purity: 0.4674
+2025-04-17 17:21:31,490 - INFO - Multivariate Log-rank test p-value: 1.7806e-01
+2025-04-17 17:21:31,490 - INFO - Concordance Index (C-index): 0.4579
+2025-04-17 17:21:34,369 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 17:21:35,397 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 17:23:58,459 - INFO - Silhouette Score: 0.0785
+2025-04-17 17:23:58,464 - INFO - Accuracy: 0.0000
+2025-04-17 17:23:58,464 - INFO - ARI: 0.0103
+2025-04-17 17:23:58,464 - INFO - NMI: 0.0463
+2025-04-17 17:23:58,464 - INFO - Purity: 0.4348
+2025-04-17 17:24:03,565 - INFO - Multivariate Log-rank test p-value: 2.0226e-01
+2025-04-17 17:24:03,566 - INFO - Concordance Index (C-index): 0.4976
+2025-04-17 17:24:06,214 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 17:24:07,211 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 17:24:43,005 - INFO - Silhouette Score: 0.0643
+2025-04-17 17:24:43,010 - INFO - Accuracy: 0.0000
+2025-04-17 17:24:43,010 - INFO - ARI: -0.0097
+2025-04-17 17:24:43,010 - INFO - NMI: 0.0416
+2025-04-17 17:24:43,010 - INFO - Purity: 0.4022
+2025-04-17 17:24:48,295 - INFO - Multivariate Log-rank test p-value: 6.3976e-02
+2025-04-17 17:24:48,296 - INFO - Concordance Index (C-index): 0.7091
+2025-04-17 17:25:21,842 - INFO - Silhouette Score: 0.0731
+2025-04-17 17:25:21,849 - INFO - Accuracy: 0.0000
+2025-04-17 17:25:21,849 - INFO - ARI: 0.0002
+2025-04-17 17:25:21,849 - INFO - NMI: 0.0668
+2025-04-17 17:25:21,849 - INFO - Purity: 0.3913
+2025-04-17 17:25:26,655 - INFO - Multivariate Log-rank test p-value: 5.7053e-02
+2025-04-17 17:25:26,655 - INFO - Concordance Index (C-index): 0.5120
+2025-04-17 17:25:29,232 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 17:25:30,328 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 17:26:01,188 - INFO - Silhouette Score: 0.0716
+2025-04-17 17:26:01,193 - INFO - Accuracy: 0.0000
+2025-04-17 17:26:01,193 - INFO - ARI: 0.0140
+2025-04-17 17:26:01,193 - INFO - NMI: 0.0538
+2025-04-17 17:26:01,193 - INFO - Purity: 0.4348
+2025-04-17 17:26:06,001 - INFO - Multivariate Log-rank test p-value: 1.9808e-01
+2025-04-17 17:26:06,002 - INFO - Concordance Index (C-index): 0.4639
+2025-04-17 17:26:08,624 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 17:29:08,103 - INFO - Silhouette Score: 0.0591
+2025-04-17 17:29:08,112 - INFO - Accuracy: 0.0000
+2025-04-17 17:29:08,113 - INFO - ARI: 0.0094
+2025-04-17 17:29:08,113 - INFO - NMI: 0.0768
+2025-04-17 17:29:08,113 - INFO - Purity: 0.4239
+2025-04-17 17:29:13,001 - INFO - Multivariate Log-rank test p-value: 1.8174e-01
+2025-04-17 17:29:13,001 - INFO - Concordance Index (C-index): 0.3353
+2025-04-17 17:29:15,608 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 17:29:16,607 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 17:30:00,520 - INFO - Silhouette Score: 0.0700
+2025-04-17 17:30:00,525 - INFO - Accuracy: 0.0000
+2025-04-17 17:30:00,525 - INFO - ARI: 0.0475
+2025-04-17 17:30:00,525 - INFO - NMI: 0.0897
+2025-04-17 17:30:00,526 - INFO - Purity: 0.4891
+2025-04-17 17:30:05,284 - INFO - Multivariate Log-rank test p-value: 9.8307e-02
+2025-04-17 17:30:05,285 - INFO - Concordance Index (C-index): 0.6166
+2025-04-17 17:30:07,840 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 17:30:08,835 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 17:30:42,591 - INFO - Silhouette Score: 0.0747
+2025-04-17 17:30:42,597 - INFO - Accuracy: 0.0000
+2025-04-17 17:30:42,597 - INFO - ARI: 0.0275
+2025-04-17 17:30:42,597 - INFO - NMI: 0.0788
+2025-04-17 17:30:42,597 - INFO - Purity: 0.4348
+2025-04-17 17:30:47,236 - INFO - Multivariate Log-rank test p-value: 1.1522e-01
+2025-04-17 17:30:47,236 - INFO - Concordance Index (C-index): 0.3317
+2025-04-17 17:30:49,932 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 17:36:58,916 - INFO - Silhouette Score: 0.0657
+2025-04-17 17:36:58,922 - INFO - Accuracy: 0.0000
+2025-04-17 17:36:58,922 - INFO - ARI: 0.0059
+2025-04-17 17:36:58,922 - INFO - NMI: 0.0738
+2025-04-17 17:36:58,922 - INFO - Purity: 0.3913
+2025-04-17 17:37:03,719 - INFO - Multivariate Log-rank test p-value: 2.8052e-02
+2025-04-17 17:37:03,720 - INFO - Concordance Index (C-index): 0.3558
+2025-04-17 17:37:06,213 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 17:37:07,276 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 17:43:47,387 - INFO - Silhouette Score: 0.0916
+2025-04-17 17:43:47,392 - INFO - Accuracy: 0.0000
+2025-04-17 17:43:47,392 - INFO - ARI: 0.0143
+2025-04-17 17:43:47,392 - INFO - NMI: 0.0662
+2025-04-17 17:43:47,392 - INFO - Purity: 0.4130
+2025-04-17 17:43:51,951 - INFO - Multivariate Log-rank test p-value: 2.5665e-02
+2025-04-17 17:43:51,952 - INFO - Concordance Index (C-index): 0.7296
+2025-04-17 17:43:54,586 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 17:43:55,668 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 17:47:34,361 - INFO - Silhouette Score: 0.1251
+2025-04-17 17:47:34,367 - INFO - Accuracy: 0.0000
+2025-04-17 17:47:34,367 - INFO - ARI: 0.0190
+2025-04-17 17:47:34,367 - INFO - NMI: 0.0608
+2025-04-17 17:47:34,367 - INFO - Purity: 0.4457
+2025-04-17 17:47:39,191 - INFO - Multivariate Log-rank test p-value: 4.4876e-02
+2025-04-17 17:47:39,191 - INFO - Concordance Index (C-index): 0.3233
+2025-04-17 17:47:41,732 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 17:47:42,752 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 17:51:35,265 - INFO - Silhouette Score: 0.1056
+2025-04-17 17:51:35,270 - INFO - Accuracy: 0.0000
+2025-04-17 17:51:35,270 - INFO - ARI: 0.0267
+2025-04-17 17:51:35,270 - INFO - NMI: 0.0568
+2025-04-17 17:51:35,270 - INFO - Purity: 0.4457
+2025-04-17 17:51:40,167 - INFO - Multivariate Log-rank test p-value: 2.2162e-01
+2025-04-17 17:51:40,168 - INFO - Concordance Index (C-index): 0.6755
+2025-04-17 17:51:42,705 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 17:51:43,771 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 17:52:13,677 - INFO - Silhouette Score: 0.1012
+2025-04-17 17:52:13,683 - INFO - Accuracy: 0.0000
+2025-04-17 17:52:13,683 - INFO - ARI: 0.0018
+2025-04-17 17:52:13,683 - INFO - NMI: 0.0513
+2025-04-17 17:52:13,683 - INFO - Purity: 0.3913
+2025-04-17 17:52:18,580 - INFO - Multivariate Log-rank test p-value: 1.9143e-02
+2025-04-17 17:52:18,581 - INFO - Concordance Index (C-index): 0.4916
+2025-04-17 17:53:12,574 - INFO - Silhouette Score: 0.0731
+2025-04-17 17:53:12,580 - INFO - Accuracy: 0.0000
+2025-04-17 17:53:12,580 - INFO - ARI: 0.0143
+2025-04-17 17:53:12,580 - INFO - NMI: 0.0620
+2025-04-17 17:53:12,580 - INFO - Purity: 0.4239
+2025-04-17 17:53:17,592 - INFO - Multivariate Log-rank test p-value: 1.3623e-01
+2025-04-17 17:53:17,592 - INFO - Concordance Index (C-index): 0.6214
+2025-04-17 17:53:20,369 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 17:53:21,400 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 18:02:44,088 - INFO - Silhouette Score: 0.0838
+2025-04-17 18:02:44,093 - INFO - Accuracy: 0.0000
+2025-04-17 18:02:44,093 - INFO - ARI: -0.0111
+2025-04-17 18:02:44,093 - INFO - NMI: 0.0384
+2025-04-17 18:02:44,093 - INFO - Purity: 0.3913
+2025-04-17 18:02:51,098 - INFO - Multivariate Log-rank test p-value: 7.3866e-02
+2025-04-17 18:02:51,098 - INFO - Concordance Index (C-index): 0.7200
+2025-04-17 18:02:55,763 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 18:02:56,758 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 18:03:35,562 - INFO - Silhouette Score: 0.1027
+2025-04-17 18:03:35,566 - INFO - Accuracy: 0.0000
+2025-04-17 18:03:35,566 - INFO - ARI: 0.0005
+2025-04-17 18:03:35,566 - INFO - NMI: 0.0508
+2025-04-17 18:03:35,566 - INFO - Purity: 0.4130
+2025-04-17 18:03:42,635 - INFO - Multivariate Log-rank test p-value: 7.7343e-02
+2025-04-17 18:03:42,635 - INFO - Concordance Index (C-index): 0.3389
+2025-04-17 18:03:47,364 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 18:03:48,321 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 18:06:28,814 - INFO - Silhouette Score: 0.0749
+2025-04-17 18:06:28,828 - INFO - Accuracy: 0.0000
+2025-04-17 18:06:28,828 - INFO - ARI: -0.0070
+2025-04-17 18:06:28,828 - INFO - NMI: 0.0376
+2025-04-17 18:06:28,828 - INFO - Purity: 0.4022
+2025-04-17 18:06:33,685 - INFO - Multivariate Log-rank test p-value: 9.3000e-02
+2025-04-17 18:06:33,685 - INFO - Concordance Index (C-index): 0.5385
+2025-04-17 18:09:31,193 - INFO - Silhouette Score: 0.0916
+2025-04-17 18:09:31,197 - INFO - Accuracy: 0.0000
+2025-04-17 18:09:31,197 - INFO - ARI: 0.0143
+2025-04-17 18:09:31,197 - INFO - NMI: 0.0662
+2025-04-17 18:09:31,197 - INFO - Purity: 0.4130
+2025-04-17 18:09:35,883 - INFO - Multivariate Log-rank test p-value: 2.5665e-02
+2025-04-17 18:09:35,884 - INFO - Concordance Index (C-index): 0.7296
+2025-04-17 18:09:38,571 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 18:09:39,559 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 18:31:25,451 - INFO - Silhouette Score: 0.0585
+2025-04-17 18:31:25,463 - INFO - Accuracy: 0.0000
+2025-04-17 18:31:25,463 - INFO - ARI: -0.0009
+2025-04-17 18:31:25,463 - INFO - NMI: 0.2761
+2025-04-17 18:31:25,463 - INFO - Purity: 0.5978
+2025-04-17 18:31:30,705 - INFO - Multivariate Log-rank test p-value: 4.9188e-01
+2025-04-17 18:31:30,706 - INFO - Concordance Index (C-index): 0.5036
+2025-04-17 18:31:33,656 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 18:31:34,987 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-17 18:33:55,268 - INFO - Silhouette Score: 0.0658
+2025-04-17 18:33:55,272 - INFO - Accuracy: 0.0000
+2025-04-17 18:33:55,273 - INFO - ARI: 0.0192
+2025-04-17 18:33:55,273 - INFO - NMI: 0.2294
+2025-04-17 18:33:55,273 - INFO - Purity: 0.5761
+2025-04-17 18:34:00,331 - INFO - Multivariate Log-rank test p-value: 3.9967e-01
+2025-04-17 18:34:00,331 - INFO - Concordance Index (C-index): 0.4002
+2025-04-17 18:34:03,396 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 18:35:35,608 - INFO - Silhouette Score: 0.0916
+2025-04-17 18:35:35,614 - INFO - Accuracy: 0.0000
+2025-04-17 18:35:35,614 - INFO - ARI: 0.0143
+2025-04-17 18:35:35,614 - INFO - NMI: 0.0662
+2025-04-17 18:35:35,614 - INFO - Purity: 0.4130
+2025-04-17 18:35:40,596 - INFO - Multivariate Log-rank test p-value: 2.5665e-02
+2025-04-17 18:35:40,596 - INFO - Concordance Index (C-index): 0.7296
+2025-04-17 18:35:43,484 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-17 18:35:44,507 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 00:05:12,908 - INFO - Silhouette Score: 0.0916
+2025-04-18 00:05:12,920 - INFO - Accuracy: 0.0000
+2025-04-18 00:05:12,920 - INFO - ARI: 0.0143
+2025-04-18 00:05:12,920 - INFO - NMI: 0.0662
+2025-04-18 00:05:12,920 - INFO - Purity: 0.4130
+2025-04-18 00:05:17,747 - INFO - Multivariate Log-rank test p-value: 2.5665e-02
+2025-04-18 00:05:17,747 - INFO - Concordance Index (C-index): 0.7296
+2025-04-18 00:05:20,490 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 00:05:21,545 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 00:07:36,594 - INFO - Silhouette Score: 0.0916
+2025-04-18 00:07:36,600 - INFO - Accuracy: 0.0000
+2025-04-18 00:07:36,600 - INFO - ARI: 0.0143
+2025-04-18 00:07:36,600 - INFO - NMI: 0.0662
+2025-04-18 00:07:36,600 - INFO - Purity: 0.4130
+2025-04-18 00:07:41,405 - INFO - Multivariate Log-rank test p-value: 2.5665e-02
+2025-04-18 00:07:41,405 - INFO - Concordance Index (C-index): 0.7296
+2025-04-18 00:07:44,000 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 00:07:45,049 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 00:26:29,593 - INFO - Silhouette Score: 0.0916
+2025-04-18 00:26:29,605 - INFO - Accuracy: 0.0000
+2025-04-18 00:26:29,605 - INFO - ARI: 0.0143
+2025-04-18 00:26:29,606 - INFO - NMI: 0.0662
+2025-04-18 00:26:29,606 - INFO - Purity: 0.4130
+2025-04-18 00:26:34,382 - INFO - Multivariate Log-rank test p-value: 2.5665e-02
+2025-04-18 00:26:34,382 - INFO - Concordance Index (C-index): 0.7296
+2025-04-18 00:26:37,158 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 00:26:38,230 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 00:42:23,273 - INFO - Silhouette Score: 0.0916
+2025-04-18 00:42:23,279 - INFO - Accuracy: 0.0000
+2025-04-18 00:42:23,279 - INFO - ARI: 0.0143
+2025-04-18 00:42:23,279 - INFO - NMI: 0.0662
+2025-04-18 00:42:23,279 - INFO - Purity: 0.4130
+2025-04-18 00:42:28,106 - INFO - Multivariate Log-rank test p-value: 2.5665e-02
+2025-04-18 00:42:28,106 - INFO - Concordance Index (C-index): 0.7296
+2025-04-18 00:42:30,658 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 00:42:31,671 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:02:46,581 - INFO - Silhouette Score: 0.0916
+2025-04-18 01:02:46,593 - INFO - Accuracy: 0.0000
+2025-04-18 01:02:46,593 - INFO - ARI: 0.0143
+2025-04-18 01:02:46,593 - INFO - NMI: 0.0662
+2025-04-18 01:02:46,594 - INFO - Purity: 0.4130
+2025-04-18 01:02:51,718 - INFO - Multivariate Log-rank test p-value: 2.5665e-02
+2025-04-18 01:02:51,718 - INFO - Concordance Index (C-index): 0.7296
+2025-04-18 01:02:54,517 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:02:55,584 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:12:31,345 - INFO - Silhouette Score: 0.1053
+2025-04-18 01:12:31,351 - INFO - Accuracy: 0.0000
+2025-04-18 01:12:31,351 - INFO - ARI: 0.0071
+2025-04-18 01:12:31,351 - INFO - NMI: 0.0776
+2025-04-18 01:12:31,351 - INFO - Purity: 0.4130
+2025-04-18 01:12:36,153 - INFO - Multivariate Log-rank test p-value: 1.7767e-02
+2025-04-18 01:12:36,154 - INFO - Concordance Index (C-index): 0.4495
+2025-04-18 01:12:38,714 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:12:39,750 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:13:17,845 - INFO - Silhouette Score: 0.1701
+2025-04-18 01:13:17,867 - INFO - Accuracy: 0.0000
+2025-04-18 01:13:17,867 - INFO - ARI: 0.0115
+2025-04-18 01:13:17,867 - INFO - NMI: 0.0498
+2025-04-18 01:13:17,867 - INFO - Purity: 0.4457
+2025-04-18 01:13:22,616 - INFO - Multivariate Log-rank test p-value: 2.3076e-01
+2025-04-18 01:13:22,617 - INFO - Concordance Index (C-index): 0.6851
+2025-04-18 01:13:25,490 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:13:26,482 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:14:09,164 - INFO - Silhouette Score: 0.1283
+2025-04-18 01:14:09,169 - INFO - Accuracy: 0.0000
+2025-04-18 01:14:09,169 - INFO - ARI: -0.0025
+2025-04-18 01:14:09,169 - INFO - NMI: 0.0489
+2025-04-18 01:14:09,169 - INFO - Purity: 0.3913
+2025-04-18 01:14:13,859 - INFO - Multivariate Log-rank test p-value: 3.5022e-02
+2025-04-18 01:14:13,860 - INFO - Concordance Index (C-index): 0.4772
+2025-04-18 01:14:16,555 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:14:49,709 - INFO - Silhouette Score: 0.0980
+2025-04-18 01:14:49,715 - INFO - Accuracy: 0.0000
+2025-04-18 01:14:49,715 - INFO - ARI: 0.0294
+2025-04-18 01:14:49,715 - INFO - NMI: 0.0643
+2025-04-18 01:14:49,718 - INFO - Purity: 0.4348
+2025-04-18 01:14:54,648 - INFO - Multivariate Log-rank test p-value: 1.3046e-01
+2025-04-18 01:14:54,648 - INFO - Concordance Index (C-index): 0.4279
+2025-04-18 01:14:57,309 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:14:58,354 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:15:51,780 - INFO - Silhouette Score: 0.1757
+2025-04-18 01:15:51,785 - INFO - Accuracy: 0.0000
+2025-04-18 01:15:51,785 - INFO - ARI: 0.0245
+2025-04-18 01:15:51,785 - INFO - NMI: 0.0611
+2025-04-18 01:15:51,785 - INFO - Purity: 0.4457
+2025-04-18 01:15:56,419 - INFO - Multivariate Log-rank test p-value: 3.3856e-01
+2025-04-18 01:15:56,419 - INFO - Concordance Index (C-index): 0.6550
+2025-04-18 01:15:59,093 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:16:00,227 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:16:35,675 - INFO - Silhouette Score: 0.1343
+2025-04-18 01:16:35,681 - INFO - Accuracy: 0.0000
+2025-04-18 01:16:35,681 - INFO - ARI: 0.0097
+2025-04-18 01:16:35,681 - INFO - NMI: 0.0767
+2025-04-18 01:16:35,681 - INFO - Purity: 0.4130
+2025-04-18 01:16:40,374 - INFO - Multivariate Log-rank test p-value: 3.2982e-01
+2025-04-18 01:16:40,374 - INFO - Concordance Index (C-index): 0.4579
+2025-04-18 01:16:43,155 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:18:02,866 - INFO - Silhouette Score: 0.1915
+2025-04-18 01:18:02,871 - INFO - Accuracy: 0.0000
+2025-04-18 01:18:02,871 - INFO - ARI: 0.0304
+2025-04-18 01:18:02,872 - INFO - NMI: 0.0653
+2025-04-18 01:18:02,872 - INFO - Purity: 0.4457
+2025-04-18 01:18:07,810 - INFO - Multivariate Log-rank test p-value: 2.9472e-01
+2025-04-18 01:18:07,810 - INFO - Concordance Index (C-index): 0.5841
+2025-04-18 01:18:10,458 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:19:00,100 - INFO - Silhouette Score: 0.1701
+2025-04-18 01:19:00,106 - INFO - Accuracy: 0.0000
+2025-04-18 01:19:00,106 - INFO - ARI: 0.0115
+2025-04-18 01:19:00,106 - INFO - NMI: 0.0498
+2025-04-18 01:19:00,106 - INFO - Purity: 0.4457
+2025-04-18 01:19:11,320 - INFO - Silhouette Score: 0.1701
+2025-04-18 01:19:11,325 - INFO - Accuracy: 0.0000
+2025-04-18 01:19:11,325 - INFO - ARI: 0.0115
+2025-04-18 01:19:11,325 - INFO - NMI: 0.0498
+2025-04-18 01:19:11,325 - INFO - Purity: 0.4457
+2025-04-18 01:19:16,100 - INFO - Multivariate Log-rank test p-value: 2.3076e-01
+2025-04-18 01:19:16,100 - INFO - Concordance Index (C-index): 0.6851
+2025-04-18 01:19:18,625 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:19:19,730 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:20:18,169 - INFO - Silhouette Score: 0.1510
+2025-04-18 01:20:18,174 - INFO - Accuracy: 0.0000
+2025-04-18 01:20:18,174 - INFO - ARI: -0.0016
+2025-04-18 01:20:18,174 - INFO - NMI: 0.0389
+2025-04-18 01:20:18,174 - INFO - Purity: 0.4022
+2025-04-18 01:20:22,959 - INFO - Multivariate Log-rank test p-value: 7.9291e-02
+2025-04-18 01:20:22,959 - INFO - Concordance Index (C-index): 0.3798
+2025-04-18 01:20:25,714 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:20:26,763 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:23:10,719 - INFO - Silhouette Score: 0.0916
+2025-04-18 01:23:10,724 - INFO - Accuracy: 0.0000
+2025-04-18 01:23:10,724 - INFO - ARI: 0.0143
+2025-04-18 01:23:10,724 - INFO - NMI: 0.0662
+2025-04-18 01:23:10,725 - INFO - Purity: 0.4130
+2025-04-18 01:23:15,425 - INFO - Multivariate Log-rank test p-value: 2.5665e-02
+2025-04-18 01:23:15,425 - INFO - Concordance Index (C-index): 0.7296
+2025-04-18 01:23:18,140 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:23:19,204 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:25:14,428 - INFO - Silhouette Score: 0.1039
+2025-04-18 01:25:14,433 - INFO - Accuracy: 0.0000
+2025-04-18 01:25:14,433 - INFO - ARI: -0.0041
+2025-04-18 01:25:14,434 - INFO - NMI: 0.0413
+2025-04-18 01:25:14,434 - INFO - Purity: 0.4022
+2025-04-18 01:25:19,341 - INFO - Multivariate Log-rank test p-value: 3.6529e-02
+2025-04-18 01:25:19,341 - INFO - Concordance Index (C-index): 0.4988
+2025-04-18 01:25:22,233 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:25:23,231 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:26:14,918 - INFO - Silhouette Score: 0.0705
+2025-04-18 01:26:14,924 - INFO - Accuracy: 0.0000
+2025-04-18 01:26:14,924 - INFO - ARI: -0.0013
+2025-04-18 01:26:14,924 - INFO - NMI: 0.0672
+2025-04-18 01:26:14,924 - INFO - Purity: 0.4022
+2025-04-18 01:26:19,812 - INFO - Multivariate Log-rank test p-value: 8.2452e-03
+2025-04-18 01:26:19,812 - INFO - Concordance Index (C-index): 0.7512
+2025-04-18 01:26:22,442 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:26:23,549 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:28:02,950 - INFO - Silhouette Score: 0.0531
+2025-04-18 01:28:02,956 - INFO - Accuracy: 0.0000
+2025-04-18 01:28:02,956 - INFO - ARI: -0.0013
+2025-04-18 01:28:02,956 - INFO - NMI: 0.0461
+2025-04-18 01:28:02,956 - INFO - Purity: 0.3913
+2025-04-18 01:28:07,962 - INFO - Multivariate Log-rank test p-value: 1.4240e-01
+2025-04-18 01:28:07,962 - INFO - Concordance Index (C-index): 0.6094
+2025-04-18 01:28:10,980 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:28:58,123 - INFO - Silhouette Score: 0.0995
+2025-04-18 01:28:58,130 - INFO - Accuracy: 0.0000
+2025-04-18 01:28:58,130 - INFO - ARI: -0.0071
+2025-04-18 01:28:58,130 - INFO - NMI: 0.0549
+2025-04-18 01:28:58,130 - INFO - Purity: 0.3913
+2025-04-18 01:29:03,001 - INFO - Multivariate Log-rank test p-value: 2.6878e-02
+2025-04-18 01:29:03,002 - INFO - Concordance Index (C-index): 0.6695
+2025-04-18 01:29:05,475 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:29:06,489 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:30:20,711 - INFO - Silhouette Score: 0.0705
+2025-04-18 01:30:20,715 - INFO - Accuracy: 0.0000
+2025-04-18 01:30:20,715 - INFO - ARI: -0.0013
+2025-04-18 01:30:20,716 - INFO - NMI: 0.0672
+2025-04-18 01:30:20,716 - INFO - Purity: 0.4022
+2025-04-18 01:30:25,579 - INFO - Multivariate Log-rank test p-value: 8.2452e-03
+2025-04-18 01:30:25,579 - INFO - Concordance Index (C-index): 0.7512
+2025-04-18 01:30:28,356 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:30:29,392 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:31:25,496 - INFO - Silhouette Score: 0.0704
+2025-04-18 01:31:25,505 - INFO - Accuracy: 0.0000
+2025-04-18 01:31:25,505 - INFO - ARI: 0.0178
+2025-04-18 01:31:25,505 - INFO - NMI: 0.0652
+2025-04-18 01:31:25,505 - INFO - Purity: 0.4348
+2025-04-18 01:31:30,374 - INFO - Multivariate Log-rank test p-value: 3.1802e-01
+2025-04-18 01:31:30,374 - INFO - Concordance Index (C-index): 0.4808
+2025-04-18 01:31:32,949 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:31:34,021 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:32:10,206 - INFO - Silhouette Score: 0.0962
+2025-04-18 01:32:10,212 - INFO - Accuracy: 0.0000
+2025-04-18 01:32:10,212 - INFO - ARI: 0.0128
+2025-04-18 01:32:10,212 - INFO - NMI: 0.0724
+2025-04-18 01:32:10,212 - INFO - Purity: 0.4348
+2025-04-18 01:32:14,946 - INFO - Multivariate Log-rank test p-value: 3.8858e-01
+2025-04-18 01:32:14,947 - INFO - Concordance Index (C-index): 0.4111
+2025-04-18 01:32:17,874 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:32:18,900 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:33:51,449 - INFO - Silhouette Score: 0.0950
+2025-04-18 01:33:51,454 - INFO - Accuracy: 0.0000
+2025-04-18 01:33:51,454 - INFO - ARI: 0.0156
+2025-04-18 01:33:51,454 - INFO - NMI: 0.0505
+2025-04-18 01:33:51,454 - INFO - Purity: 0.4239
+2025-04-18 01:33:56,496 - INFO - Multivariate Log-rank test p-value: 1.9018e-01
+2025-04-18 01:33:56,496 - INFO - Concordance Index (C-index): 0.5252
+2025-04-18 01:33:59,053 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:34:00,124 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:35:57,853 - INFO - Silhouette Score: 0.0720
+2025-04-18 01:35:57,859 - INFO - Accuracy: 0.0000
+2025-04-18 01:35:57,859 - INFO - ARI: 0.0023
+2025-04-18 01:35:57,859 - INFO - NMI: 0.0443
+2025-04-18 01:35:57,859 - INFO - Purity: 0.4348
+2025-04-18 01:36:03,109 - INFO - Multivariate Log-rank test p-value: 7.8004e-01
+2025-04-18 01:36:03,110 - INFO - Concordance Index (C-index): 0.4832
+2025-04-18 01:36:05,863 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:36:06,941 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:37:51,658 - INFO - Silhouette Score: 0.0693
+2025-04-18 01:37:51,663 - INFO - Accuracy: 0.0000
+2025-04-18 01:37:51,663 - INFO - ARI: 0.0102
+2025-04-18 01:37:51,663 - INFO - NMI: 0.0556
+2025-04-18 01:37:51,663 - INFO - Purity: 0.4239
+2025-04-18 01:37:56,417 - INFO - Multivariate Log-rank test p-value: 9.5866e-02
+2025-04-18 01:37:56,418 - INFO - Concordance Index (C-index): 0.6743
+2025-04-18 01:37:58,929 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:38:00,000 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:38:41,423 - INFO - Silhouette Score: 0.0972
+2025-04-18 01:38:41,428 - INFO - Accuracy: 0.0000
+2025-04-18 01:38:41,428 - INFO - ARI: -0.0003
+2025-04-18 01:38:41,428 - INFO - NMI: 0.0555
+2025-04-18 01:38:41,428 - INFO - Purity: 0.4130
+2025-04-18 01:38:46,259 - INFO - Multivariate Log-rank test p-value: 2.6107e-01
+2025-04-18 01:38:46,259 - INFO - Concordance Index (C-index): 0.5349
+2025-04-18 01:38:49,041 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:38:50,103 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:39:22,581 - INFO - Silhouette Score: 0.0836
+2025-04-18 01:39:22,587 - INFO - Accuracy: 0.0000
+2025-04-18 01:39:22,587 - INFO - ARI: -0.0028
+2025-04-18 01:39:22,587 - INFO - NMI: 0.0674
+2025-04-18 01:39:22,587 - INFO - Purity: 0.3913
+2025-04-18 01:39:27,377 - INFO - Multivariate Log-rank test p-value: 7.1701e-02
+2025-04-18 01:39:27,377 - INFO - Concordance Index (C-index): 0.5385
+2025-04-18 01:39:30,345 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:39:31,397 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:40:21,444 - INFO - Silhouette Score: 0.0660
+2025-04-18 01:40:21,448 - INFO - Accuracy: 0.0000
+2025-04-18 01:40:21,448 - INFO - ARI: 0.0036
+2025-04-18 01:40:21,448 - INFO - NMI: 0.0464
+2025-04-18 01:40:21,448 - INFO - Purity: 0.4239
+2025-04-18 01:40:26,224 - INFO - Multivariate Log-rank test p-value: 8.1876e-02
+2025-04-18 01:40:26,224 - INFO - Concordance Index (C-index): 0.6959
+2025-04-18 01:40:28,840 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:40:29,930 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:41:05,269 - INFO - Silhouette Score: 0.0735
+2025-04-18 01:41:05,277 - INFO - Accuracy: 0.0000
+2025-04-18 01:41:05,277 - INFO - ARI: 0.0171
+2025-04-18 01:41:05,277 - INFO - NMI: 0.0843
+2025-04-18 01:41:05,277 - INFO - Purity: 0.4022
+2025-04-18 01:41:09,949 - INFO - Multivariate Log-rank test p-value: 1.6525e-01
+2025-04-18 01:41:09,949 - INFO - Concordance Index (C-index): 0.4796
+2025-04-18 01:41:12,540 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:41:13,573 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:42:19,583 - INFO - Silhouette Score: 0.0705
+2025-04-18 01:42:19,588 - INFO - Accuracy: 0.0000
+2025-04-18 01:42:19,588 - INFO - ARI: -0.0013
+2025-04-18 01:42:19,588 - INFO - NMI: 0.0672
+2025-04-18 01:42:19,588 - INFO - Purity: 0.4022
+2025-04-18 01:42:25,031 - INFO - Multivariate Log-rank test p-value: 8.2452e-03
+2025-04-18 01:42:25,032 - INFO - Concordance Index (C-index): 0.7512
+2025-04-18 01:42:27,786 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:42:28,793 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:47:35,463 - INFO - Silhouette Score: 0.1050
+2025-04-18 01:47:35,469 - INFO - Accuracy: 0.0000
+2025-04-18 01:47:35,469 - INFO - ARI: 0.0172
+2025-04-18 01:47:35,469 - INFO - NMI: 0.0524
+2025-04-18 01:47:35,469 - INFO - Purity: 0.4348
+2025-04-18 01:47:40,554 - INFO - Multivariate Log-rank test p-value: 2.3653e-01
+2025-04-18 01:47:40,555 - INFO - Concordance Index (C-index): 0.5373
+2025-04-18 01:47:43,151 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:50:43,042 - INFO - Silhouette Score: 0.0989
+2025-04-18 01:50:43,050 - INFO - Accuracy: 0.0000
+2025-04-18 01:50:43,051 - INFO - ARI: 0.0146
+2025-04-18 01:50:43,051 - INFO - NMI: 0.0576
+2025-04-18 01:50:43,051 - INFO - Purity: 0.4239
+2025-04-18 01:50:47,824 - INFO - Multivariate Log-rank test p-value: 9.3463e-02
+2025-04-18 01:50:47,824 - INFO - Concordance Index (C-index): 0.3209
+2025-04-18 01:50:50,432 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:50:51,483 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:52:02,089 - INFO - Silhouette Score: 0.0916
+2025-04-18 01:52:02,094 - INFO - Accuracy: 0.0000
+2025-04-18 01:52:02,094 - INFO - ARI: 0.0060
+2025-04-18 01:52:02,094 - INFO - NMI: 0.0557
+2025-04-18 01:52:02,094 - INFO - Purity: 0.4130
+2025-04-18 01:52:07,018 - INFO - Multivariate Log-rank test p-value: 8.3691e-02
+2025-04-18 01:52:07,018 - INFO - Concordance Index (C-index): 0.4447
+2025-04-18 01:52:09,501 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:52:10,561 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:57:12,155 - INFO - Silhouette Score: 0.0963
+2025-04-18 01:57:12,161 - INFO - Accuracy: 0.0000
+2025-04-18 01:57:12,161 - INFO - ARI: 0.0146
+2025-04-18 01:57:12,161 - INFO - NMI: 0.0866
+2025-04-18 01:57:12,161 - INFO - Purity: 0.3913
+2025-04-18 01:57:17,146 - INFO - Multivariate Log-rank test p-value: 5.1823e-02
+2025-04-18 01:57:17,146 - INFO - Concordance Index (C-index): 0.3341
+2025-04-18 01:57:19,793 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:57:51,368 - INFO - Silhouette Score: 0.0879
+2025-04-18 01:57:51,373 - INFO - Accuracy: 0.0000
+2025-04-18 01:57:51,373 - INFO - ARI: 0.0123
+2025-04-18 01:57:51,373 - INFO - NMI: 0.0811
+2025-04-18 01:57:51,373 - INFO - Purity: 0.4130
+2025-04-18 01:57:56,320 - INFO - Multivariate Log-rank test p-value: 3.6040e-01
+2025-04-18 01:57:56,321 - INFO - Concordance Index (C-index): 0.6803
+2025-04-18 01:57:59,121 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:58:00,186 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:58:32,689 - INFO - Silhouette Score: 0.0669
+2025-04-18 01:58:32,699 - INFO - Accuracy: 0.0000
+2025-04-18 01:58:32,699 - INFO - ARI: -0.0149
+2025-04-18 01:58:32,699 - INFO - NMI: 0.0258
+2025-04-18 01:58:32,699 - INFO - Purity: 0.3913
+2025-04-18 01:58:37,609 - INFO - Multivariate Log-rank test p-value: 2.1273e-01
+2025-04-18 01:58:37,609 - INFO - Concordance Index (C-index): 0.7163
+2025-04-18 01:58:40,203 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:58:41,234 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 01:59:23,282 - INFO - Silhouette Score: 0.7164
+2025-04-18 01:59:23,287 - INFO - Accuracy: 0.0000
+2025-04-18 01:59:23,288 - INFO - ARI: 0.0143
+2025-04-18 01:59:23,288 - INFO - NMI: 0.0985
+2025-04-18 01:59:23,288 - INFO - Purity: 0.4457
+2025-04-18 01:59:28,107 - INFO - Multivariate Log-rank test p-value: 5.0046e-01
+2025-04-18 01:59:28,107 - INFO - Concordance Index (C-index): 0.5120
+2025-04-18 01:59:30,754 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 01:59:31,789 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 02:00:09,677 - INFO - Silhouette Score: 0.0599
+2025-04-18 02:00:09,682 - INFO - Accuracy: 0.0000
+2025-04-18 02:00:09,682 - INFO - ARI: 0.0527
+2025-04-18 02:00:09,682 - INFO - NMI: 0.1168
+2025-04-18 02:00:09,682 - INFO - Purity: 0.4783
+2025-04-18 02:00:14,408 - INFO - Multivariate Log-rank test p-value: 5.3507e-01
+2025-04-18 02:00:14,409 - INFO - Concordance Index (C-index): 0.5493
+2025-04-18 02:00:17,330 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 02:00:18,328 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 02:01:01,490 - INFO - Silhouette Score: 0.0767
+2025-04-18 02:01:01,500 - INFO - Accuracy: 0.0000
+2025-04-18 02:01:01,500 - INFO - ARI: 0.0399
+2025-04-18 02:01:01,500 - INFO - NMI: 0.1047
+2025-04-18 02:01:01,500 - INFO - Purity: 0.4348
+2025-04-18 02:01:06,231 - INFO - Multivariate Log-rank test p-value: 7.2568e-02
+2025-04-18 02:01:06,231 - INFO - Concordance Index (C-index): 0.6286
+2025-04-18 02:01:08,978 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 02:01:10,029 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 02:02:28,609 - INFO - Silhouette Score: 0.0669
+2025-04-18 02:02:28,615 - INFO - Accuracy: 0.0000
+2025-04-18 02:02:28,615 - INFO - ARI: -0.0149
+2025-04-18 02:02:28,615 - INFO - NMI: 0.0258
+2025-04-18 02:02:28,615 - INFO - Purity: 0.3913
+2025-04-18 02:02:33,502 - INFO - Multivariate Log-rank test p-value: 2.1273e-01
+2025-04-18 02:02:33,503 - INFO - Concordance Index (C-index): 0.7163
+2025-04-18 02:02:36,265 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 02:02:37,260 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 02:03:48,482 - INFO - Silhouette Score: 0.0669
+2025-04-18 02:03:48,488 - INFO - Accuracy: 0.0000
+2025-04-18 02:03:48,488 - INFO - ARI: -0.0149
+2025-04-18 02:03:48,488 - INFO - NMI: 0.0258
+2025-04-18 02:03:48,488 - INFO - Purity: 0.3913
+2025-04-18 02:03:53,414 - INFO - Multivariate Log-rank test p-value: 2.1273e-01
+2025-04-18 02:03:53,415 - INFO - Concordance Index (C-index): 0.7163
+2025-04-18 02:03:56,043 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 02:03:57,138 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 02:05:21,713 - INFO - Silhouette Score: 0.0705
+2025-04-18 02:05:21,718 - INFO - Accuracy: 0.0000
+2025-04-18 02:05:21,718 - INFO - ARI: -0.0013
+2025-04-18 02:05:21,718 - INFO - NMI: 0.0672
+2025-04-18 02:05:21,718 - INFO - Purity: 0.4022
+2025-04-18 02:05:26,352 - INFO - Multivariate Log-rank test p-value: 8.2452e-03
+2025-04-18 02:05:26,352 - INFO - Concordance Index (C-index): 0.7512
+2025-04-18 02:05:29,317 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 02:05:30,342 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 02:07:07,987 - INFO - Silhouette Score: 0.0705
+2025-04-18 02:07:07,993 - INFO - Accuracy: 0.0000
+2025-04-18 02:07:07,993 - INFO - ARI: -0.0013
+2025-04-18 02:07:07,993 - INFO - NMI: 0.0672
+2025-04-18 02:07:07,993 - INFO - Purity: 0.4022
+2025-04-18 02:07:12,689 - INFO - Multivariate Log-rank test p-value: 8.2452e-03
+2025-04-18 02:07:12,690 - INFO - Concordance Index (C-index): 0.7512
+2025-04-18 02:07:15,492 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 02:07:16,524 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 02:08:10,825 - INFO - Silhouette Score: 0.0705
+2025-04-18 02:08:10,830 - INFO - Accuracy: 0.0000
+2025-04-18 02:08:10,831 - INFO - ARI: -0.0013
+2025-04-18 02:08:10,831 - INFO - NMI: 0.0672
+2025-04-18 02:08:10,831 - INFO - Purity: 0.4022
+2025-04-18 02:08:15,743 - INFO - Multivariate Log-rank test p-value: 8.2452e-03
+2025-04-18 02:08:15,744 - INFO - Concordance Index (C-index): 0.7512
+2025-04-18 02:08:18,352 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 02:08:19,408 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 02:10:19,995 - INFO - Silhouette Score: 0.0705
+2025-04-18 02:10:20,000 - INFO - Accuracy: 0.0000
+2025-04-18 02:10:20,001 - INFO - ARI: -0.0013
+2025-04-18 02:10:20,001 - INFO - NMI: 0.0672
+2025-04-18 02:10:20,001 - INFO - Purity: 0.4022
+2025-04-18 02:10:25,034 - INFO - Multivariate Log-rank test p-value: 8.2452e-03
+2025-04-18 02:10:25,034 - INFO - Concordance Index (C-index): 0.7512
+2025-04-18 02:10:27,782 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 02:10:28,862 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 02:12:14,546 - INFO - Silhouette Score: 0.0853
+2025-04-18 02:12:14,551 - INFO - Accuracy: 0.0000
+2025-04-18 02:12:14,551 - INFO - ARI: -0.0029
+2025-04-18 02:12:14,551 - INFO - NMI: 0.0667
+2025-04-18 02:12:14,552 - INFO - Purity: 0.3913
+2025-04-18 02:12:19,498 - INFO - Multivariate Log-rank test p-value: 1.0182e-01
+2025-04-18 02:12:19,498 - INFO - Concordance Index (C-index): 0.3353
+2025-04-18 02:12:22,284 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 02:12:23,300 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 02:13:12,099 - INFO - Silhouette Score: 0.0899
+2025-04-18 02:13:12,105 - INFO - Accuracy: 0.0000
+2025-04-18 02:13:12,105 - INFO - ARI: -0.0036
+2025-04-18 02:13:12,105 - INFO - NMI: 0.0444
+2025-04-18 02:13:12,105 - INFO - Purity: 0.4022
+2025-04-18 02:13:17,223 - INFO - Multivariate Log-rank test p-value: 4.3158e-01
+2025-04-18 02:13:17,224 - INFO - Concordance Index (C-index): 0.4279
+2025-04-18 02:13:19,775 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 02:13:20,898 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 02:17:28,529 - INFO - Silhouette Score: 0.0844
+2025-04-18 02:17:28,534 - INFO - Accuracy: 0.0000
+2025-04-18 02:17:28,534 - INFO - ARI: 0.0160
+2025-04-18 02:17:28,534 - INFO - NMI: 0.0710
+2025-04-18 02:17:28,534 - INFO - Purity: 0.4130
+2025-04-18 02:17:33,350 - INFO - Multivariate Log-rank test p-value: 7.4070e-02
+2025-04-18 02:17:33,351 - INFO - Concordance Index (C-index): 0.3630
+2025-04-18 02:17:36,053 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 02:17:37,095 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 02:18:18,917 - INFO - Silhouette Score: 0.0844
+2025-04-18 02:18:18,927 - INFO - Accuracy: 0.0000
+2025-04-18 02:18:18,927 - INFO - ARI: 0.0160
+2025-04-18 02:18:18,927 - INFO - NMI: 0.0710
+2025-04-18 02:18:18,927 - INFO - Purity: 0.4130
+2025-04-18 02:18:23,941 - INFO - Multivariate Log-rank test p-value: 7.4070e-02
+2025-04-18 02:18:23,941 - INFO - Concordance Index (C-index): 0.3630
+2025-04-18 02:18:26,742 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 02:18:27,804 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 02:41:04,057 - INFO - Silhouette Score: 0.0977
+2025-04-18 02:41:04,062 - INFO - Accuracy: 0.0000
+2025-04-18 02:41:04,062 - INFO - ARI: 0.0116
+2025-04-18 02:41:04,062 - INFO - NMI: 0.0631
+2025-04-18 02:41:04,062 - INFO - Purity: 0.4130
+2025-04-18 02:41:08,663 - INFO - Multivariate Log-rank test p-value: 5.4405e-02
+2025-04-18 02:41:08,663 - INFO - Concordance Index (C-index): 0.3774
+2025-04-18 02:41:11,371 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 02:41:12,466 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 02:42:00,059 - INFO - Silhouette Score: 0.0705
+2025-04-18 02:42:00,065 - INFO - Accuracy: 0.0000
+2025-04-18 02:42:00,065 - INFO - ARI: -0.0013
+2025-04-18 02:42:00,065 - INFO - NMI: 0.0672
+2025-04-18 02:42:00,065 - INFO - Purity: 0.4022
+2025-04-18 02:42:05,065 - INFO - Multivariate Log-rank test p-value: 8.2452e-03
+2025-04-18 02:42:05,066 - INFO - Concordance Index (C-index): 0.7512
+2025-04-18 02:42:07,851 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 02:42:08,881 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 02:43:50,774 - INFO - Silhouette Score: 0.0948
+2025-04-18 02:43:50,780 - INFO - Accuracy: 0.0000
+2025-04-18 02:43:50,780 - INFO - ARI: 0.0235
+2025-04-18 02:43:50,780 - INFO - NMI: 0.0768
+2025-04-18 02:43:50,780 - INFO - Purity: 0.4130
+2025-04-18 02:43:55,636 - INFO - Multivariate Log-rank test p-value: 5.9572e-02
+2025-04-18 02:43:55,636 - INFO - Concordance Index (C-index): 0.7151
+2025-04-18 02:43:58,377 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 02:43:59,373 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 02:44:30,353 - INFO - Silhouette Score: 0.0800
+2025-04-18 02:44:30,358 - INFO - Accuracy: 0.0000
+2025-04-18 02:44:30,358 - INFO - ARI: -0.0049
+2025-04-18 02:44:30,358 - INFO - NMI: 0.0559
+2025-04-18 02:44:30,358 - INFO - Purity: 0.4022
+2025-04-18 02:44:35,306 - INFO - Multivariate Log-rank test p-value: 1.3324e-01
+2025-04-18 02:44:35,306 - INFO - Concordance Index (C-index): 0.5096
+2025-04-18 02:44:38,096 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 02:44:39,105 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 02:45:11,301 - INFO - Silhouette Score: 0.0920
+2025-04-18 02:45:11,305 - INFO - Accuracy: 0.0000
+2025-04-18 02:45:11,305 - INFO - ARI: 0.0300
+2025-04-18 02:45:11,306 - INFO - NMI: 0.0974
+2025-04-18 02:45:11,306 - INFO - Purity: 0.4348
+2025-04-18 02:45:16,142 - INFO - Multivariate Log-rank test p-value: 5.8849e-02
+2025-04-18 02:45:16,142 - INFO - Concordance Index (C-index): 0.4688
+2025-04-18 02:45:18,883 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 02:45:19,873 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 02:45:53,304 - INFO - Silhouette Score: 0.0977
+2025-04-18 02:45:53,314 - INFO - Accuracy: 0.0000
+2025-04-18 02:45:53,314 - INFO - ARI: 0.0068
+2025-04-18 02:45:53,314 - INFO - NMI: 0.0560
+2025-04-18 02:45:53,314 - INFO - Purity: 0.4022
+2025-04-18 02:45:58,069 - INFO - Multivariate Log-rank test p-value: 4.6326e-02
+2025-04-18 02:45:58,069 - INFO - Concordance Index (C-index): 0.7248
+2025-04-18 02:46:00,674 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 02:46:01,705 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 02:46:44,322 - INFO - Silhouette Score: 0.0807
+2025-04-18 02:46:44,327 - INFO - Accuracy: 0.0000
+2025-04-18 02:46:44,327 - INFO - ARI: -0.0052
+2025-04-18 02:46:44,327 - INFO - NMI: 0.0556
+2025-04-18 02:46:44,327 - INFO - Purity: 0.4022
+2025-04-18 02:46:49,343 - INFO - Multivariate Log-rank test p-value: 2.0311e-01
+2025-04-18 02:46:49,343 - INFO - Concordance Index (C-index): 0.5108
+2025-04-18 02:46:51,929 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 02:46:53,043 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 02:47:31,438 - INFO - Silhouette Score: 0.0884
+2025-04-18 02:47:31,443 - INFO - Accuracy: 0.0000
+2025-04-18 02:47:31,443 - INFO - ARI: 0.0118
+2025-04-18 02:47:31,443 - INFO - NMI: 0.0747
+2025-04-18 02:47:31,443 - INFO - Purity: 0.4130
+2025-04-18 02:47:36,442 - INFO - Multivariate Log-rank test p-value: 1.4793e-01
+2025-04-18 02:47:36,442 - INFO - Concordance Index (C-index): 0.3462
+2025-04-18 02:47:39,150 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 02:47:40,144 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 02:48:18,863 - INFO - Silhouette Score: 0.0853
+2025-04-18 02:48:18,868 - INFO - Accuracy: 0.0000
+2025-04-18 02:48:18,868 - INFO - ARI: -0.0174
+2025-04-18 02:48:18,868 - INFO - NMI: 0.0461
+2025-04-18 02:48:18,868 - INFO - Purity: 0.3913
+2025-04-18 02:48:23,835 - INFO - Multivariate Log-rank test p-value: 1.3791e-02
+2025-04-18 02:48:23,835 - INFO - Concordance Index (C-index): 0.7512
+2025-04-18 02:48:26,756 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 02:48:27,744 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 02:49:04,699 - INFO - Silhouette Score: 0.1019
+2025-04-18 02:49:04,704 - INFO - Accuracy: 0.0000
+2025-04-18 02:49:04,704 - INFO - ARI: 0.0229
+2025-04-18 02:49:04,704 - INFO - NMI: 0.0816
+2025-04-18 02:49:04,704 - INFO - Purity: 0.4457
+2025-04-18 02:49:09,667 - INFO - Multivariate Log-rank test p-value: 1.5607e-02
+2025-04-18 02:49:09,667 - INFO - Concordance Index (C-index): 0.5649
+2025-04-18 02:49:52,040 - INFO - Silhouette Score: 0.0849
+2025-04-18 02:49:52,049 - INFO - Accuracy: 0.0000
+2025-04-18 02:49:52,050 - INFO - ARI: 0.0057
+2025-04-18 02:49:52,050 - INFO - NMI: 0.0664
+2025-04-18 02:49:52,050 - INFO - Purity: 0.4022
+2025-04-18 02:49:57,087 - INFO - Multivariate Log-rank test p-value: 1.7811e-01
+2025-04-18 02:49:57,087 - INFO - Concordance Index (C-index): 0.4736
+2025-04-18 02:51:05,373 - INFO - Silhouette Score: 0.1041
+2025-04-18 02:51:05,378 - INFO - Accuracy: 0.0000
+2025-04-18 02:51:05,378 - INFO - ARI: 0.0130
+2025-04-18 02:51:05,378 - INFO - NMI: 0.0485
+2025-04-18 02:51:05,378 - INFO - Purity: 0.4239
+2025-04-18 02:51:10,422 - INFO - Multivariate Log-rank test p-value: 8.7823e-02
+2025-04-18 02:51:10,422 - INFO - Concordance Index (C-index): 0.5240
+2025-04-18 02:53:34,323 - INFO - Silhouette Score: 0.0746
+2025-04-18 02:53:34,329 - INFO - Accuracy: 0.0000
+2025-04-18 02:53:34,329 - INFO - ARI: -0.0036
+2025-04-18 02:53:34,329 - INFO - NMI: 0.0556
+2025-04-18 02:53:34,329 - INFO - Purity: 0.3913
+2025-04-18 02:53:38,978 - INFO - Multivariate Log-rank test p-value: 3.0692e-02
+2025-04-18 02:53:38,979 - INFO - Concordance Index (C-index): 0.7031
+2025-04-18 02:53:41,851 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 02:53:42,941 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-18 02:54:22,062 - INFO - Silhouette Score: 0.0872
+2025-04-18 02:54:22,068 - INFO - Accuracy: 0.0000
+2025-04-18 02:54:22,068 - INFO - ARI: 0.0319
+2025-04-18 02:54:22,068 - INFO - NMI: 0.0627
+2025-04-18 02:54:22,068 - INFO - Purity: 0.4674
+2025-04-18 02:54:27,041 - INFO - Multivariate Log-rank test p-value: 3.3213e-01
+2025-04-18 02:54:27,041 - INFO - Concordance Index (C-index): 0.5805
+2025-04-18 02:54:29,471 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 02:55:07,732 - INFO - Silhouette Score: 0.0794
+2025-04-18 02:55:07,738 - INFO - Accuracy: 0.0000
+2025-04-18 02:55:07,738 - INFO - ARI: 0.0052
+2025-04-18 02:55:07,739 - INFO - NMI: 0.0550
+2025-04-18 02:55:07,739 - INFO - Purity: 0.4348
+2025-04-18 02:55:12,488 - INFO - Multivariate Log-rank test p-value: 2.8476e-02
+2025-04-18 02:55:12,489 - INFO - Concordance Index (C-index): 0.6538
+2025-04-18 03:00:08,331 - INFO - Silhouette Score: 0.0705
+2025-04-18 03:00:08,339 - INFO - Accuracy: 0.0000
+2025-04-18 03:00:08,339 - INFO - ARI: -0.0013
+2025-04-18 03:00:08,339 - INFO - NMI: 0.0672
+2025-04-18 03:00:08,339 - INFO - Purity: 0.4022
+2025-04-18 03:00:13,506 - INFO - Multivariate Log-rank test p-value: 8.2452e-03
+2025-04-18 03:00:13,507 - INFO - Concordance Index (C-index): 0.7512
+2025-04-18 03:00:16,236 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-18 03:00:17,279 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-20 22:18:13,140 - INFO - Silhouette Score: 0.0705
+2025-04-20 22:18:13,152 - INFO - Accuracy: 0.0000
+2025-04-20 22:18:13,152 - INFO - ARI: -0.0013
+2025-04-20 22:18:13,152 - INFO - NMI: 0.0672
+2025-04-20 22:18:13,152 - INFO - Purity: 0.4022
+2025-04-20 22:18:17,856 - INFO - Multivariate Log-rank test p-value: 8.2452e-03
+2025-04-20 22:18:17,856 - INFO - Concordance Index (C-index): 0.7512
+2025-04-20 22:18:20,415 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 22:18:21,486 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-20 22:20:15,104 - INFO - Silhouette Score: 0.0705
+2025-04-20 22:20:15,109 - INFO - Accuracy: 0.0000
+2025-04-20 22:20:15,109 - INFO - ARI: -0.0013
+2025-04-20 22:20:15,109 - INFO - NMI: 0.0672
+2025-04-20 22:20:15,109 - INFO - Purity: 0.4022
+2025-04-20 22:20:19,951 - INFO - Multivariate Log-rank test p-value: 8.2452e-03
+2025-04-20 22:20:19,951 - INFO - Concordance Index (C-index): 0.7512
+2025-04-20 22:20:22,525 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 22:20:23,499 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-20 22:23:32,668 - INFO - Silhouette Score: 0.0705
+2025-04-20 22:23:32,675 - INFO - Accuracy: 0.0000
+2025-04-20 22:23:32,675 - INFO - ARI: -0.0013
+2025-04-20 22:23:32,675 - INFO - NMI: 0.0672
+2025-04-20 22:23:32,675 - INFO - Purity: 0.4022
+2025-04-20 22:23:37,772 - INFO - Multivariate Log-rank test p-value: 8.2452e-03
+2025-04-20 22:23:37,772 - INFO - Concordance Index (C-index): 0.7512
+2025-04-20 22:23:40,320 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 22:23:41,278 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-20 22:26:39,329 - INFO - Silhouette Score: 0.0705
+2025-04-20 22:26:39,333 - INFO - Accuracy: 0.0000
+2025-04-20 22:26:39,333 - INFO - ARI: -0.0013
+2025-04-20 22:26:39,333 - INFO - NMI: 0.0672
+2025-04-20 22:26:39,333 - INFO - Purity: 0.4022
+2025-04-20 22:26:44,047 - INFO - Multivariate Log-rank test p-value: 8.2452e-03
+2025-04-20 22:26:44,047 - INFO - Concordance Index (C-index): 0.7512
+2025-04-20 22:26:46,542 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 22:26:47,484 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-20 22:39:37,872 - INFO - Silhouette Score: 0.0705
+2025-04-20 22:39:37,877 - INFO - Accuracy: 0.0000
+2025-04-20 22:39:37,877 - INFO - ARI: -0.0013
+2025-04-20 22:39:37,877 - INFO - NMI: 0.0672
+2025-04-20 22:39:37,877 - INFO - Purity: 0.4022
+2025-04-20 22:39:42,774 - INFO - Multivariate Log-rank test p-value: 8.2452e-03
+2025-04-20 22:39:42,774 - INFO - Concordance Index (C-index): 0.7512
+2025-04-20 22:39:45,404 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 22:39:46,407 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-20 22:48:50,173 - INFO - Silhouette Score: 0.0821
+2025-04-20 22:48:50,177 - INFO - Accuracy: 0.0000
+2025-04-20 22:48:50,177 - INFO - ARI: 0.0175
+2025-04-20 22:48:50,177 - INFO - NMI: 0.0572
+2025-04-20 22:48:50,177 - INFO - Purity: 0.4457
+2025-04-20 22:48:55,007 - INFO - Multivariate Log-rank test p-value: 2.7342e-01
+2025-04-20 22:48:55,008 - INFO - Concordance Index (C-index): 0.5433
+2025-04-20 22:48:57,708 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 22:48:58,638 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-20 22:49:45,565 - INFO - Silhouette Score: 0.0821
+2025-04-20 22:49:45,569 - INFO - Accuracy: 0.0000
+2025-04-20 22:49:45,569 - INFO - ARI: 0.0175
+2025-04-20 22:49:45,569 - INFO - NMI: 0.0572
+2025-04-20 22:49:45,570 - INFO - Purity: 0.4457
+2025-04-20 22:49:50,298 - INFO - Multivariate Log-rank test p-value: 2.7342e-01
+2025-04-20 22:49:50,298 - INFO - Concordance Index (C-index): 0.5433
+2025-04-20 22:49:53,113 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 22:52:34,413 - INFO - Silhouette Score: 0.0699
+2025-04-20 22:52:34,423 - INFO - Accuracy: 0.0000
+2025-04-20 22:52:34,423 - INFO - ARI: 0.0044
+2025-04-20 22:52:34,423 - INFO - NMI: 0.0422
+2025-04-20 22:52:34,423 - INFO - Purity: 0.4130
+2025-04-20 22:52:39,593 - INFO - Multivariate Log-rank test p-value: 5.4655e-02
+2025-04-20 22:52:39,593 - INFO - Concordance Index (C-index): 0.7356
+2025-04-20 22:52:42,423 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 22:52:43,339 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-20 22:54:23,916 - INFO - Silhouette Score: 0.0556
+2025-04-20 22:54:23,920 - INFO - Accuracy: 0.0000
+2025-04-20 22:54:23,920 - INFO - ARI: 0.0301
+2025-04-20 22:54:23,920 - INFO - NMI: 0.0739
+2025-04-20 22:54:23,920 - INFO - Purity: 0.4674
+2025-04-20 22:54:28,580 - INFO - Multivariate Log-rank test p-value: 1.3577e-01
+2025-04-20 22:54:28,581 - INFO - Concordance Index (C-index): 0.4712
+2025-04-20 22:54:31,193 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 22:54:32,112 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-20 22:55:21,955 - INFO - Silhouette Score: 0.0720
+2025-04-20 22:55:21,965 - INFO - Accuracy: 0.0000
+2025-04-20 22:55:21,965 - INFO - ARI: -0.0004
+2025-04-20 22:55:21,965 - INFO - NMI: 0.0380
+2025-04-20 22:55:21,965 - INFO - Purity: 0.4239
+2025-04-20 22:55:26,739 - INFO - Multivariate Log-rank test p-value: 6.8244e-01
+2025-04-20 22:55:26,739 - INFO - Concordance Index (C-index): 0.4663
+2025-04-20 22:55:29,394 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 22:55:30,358 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-20 22:56:21,438 - INFO - Silhouette Score: 0.0699
+2025-04-20 22:56:21,442 - INFO - Accuracy: 0.0000
+2025-04-20 22:56:21,442 - INFO - ARI: 0.0044
+2025-04-20 22:56:21,442 - INFO - NMI: 0.0422
+2025-04-20 22:56:21,442 - INFO - Purity: 0.4130
+2025-04-20 22:56:26,342 - INFO - Multivariate Log-rank test p-value: 5.4655e-02
+2025-04-20 22:56:26,342 - INFO - Concordance Index (C-index): 0.7356
+2025-04-20 22:56:29,010 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 22:56:29,941 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-20 22:57:51,978 - INFO - Silhouette Score: 0.0699
+2025-04-20 22:57:51,983 - INFO - Accuracy: 0.0000
+2025-04-20 22:57:51,983 - INFO - ARI: 0.0044
+2025-04-20 22:57:51,983 - INFO - NMI: 0.0422
+2025-04-20 22:57:51,983 - INFO - Purity: 0.4130
+2025-04-20 22:57:56,727 - INFO - Multivariate Log-rank test p-value: 5.4655e-02
+2025-04-20 22:57:56,728 - INFO - Concordance Index (C-index): 0.7356
+2025-04-20 22:57:59,397 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 22:58:00,320 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-20 22:59:41,539 - INFO - Silhouette Score: 0.0699
+2025-04-20 22:59:41,546 - INFO - Accuracy: 0.0000
+2025-04-20 22:59:41,546 - INFO - ARI: 0.0044
+2025-04-20 22:59:41,546 - INFO - NMI: 0.0422
+2025-04-20 22:59:41,546 - INFO - Purity: 0.4130
+2025-04-20 22:59:46,460 - INFO - Multivariate Log-rank test p-value: 5.4655e-02
+2025-04-20 22:59:46,460 - INFO - Concordance Index (C-index): 0.7356
+2025-04-20 22:59:49,000 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 22:59:49,916 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-20 23:04:24,363 - INFO - Silhouette Score: 0.0761
+2025-04-20 23:04:24,378 - INFO - Accuracy: 0.0000
+2025-04-20 23:04:24,378 - INFO - ARI: 0.0092
+2025-04-20 23:04:24,378 - INFO - NMI: 0.0854
+2025-04-20 23:04:24,378 - INFO - Purity: 0.4022
+2025-04-20 23:04:29,256 - INFO - Multivariate Log-rank test p-value: 3.7427e-02
+2025-04-20 23:04:29,257 - INFO - Concordance Index (C-index): 0.4351
+2025-04-20 23:04:31,924 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 23:04:32,851 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-20 23:12:27,232 - INFO - Silhouette Score: 0.0693
+2025-04-20 23:12:27,243 - INFO - Accuracy: 0.0000
+2025-04-20 23:12:27,243 - INFO - ARI: 0.0102
+2025-04-20 23:12:27,243 - INFO - NMI: 0.0556
+2025-04-20 23:12:27,243 - INFO - Purity: 0.4239
+2025-04-20 23:12:32,221 - INFO - Multivariate Log-rank test p-value: 9.5866e-02
+2025-04-20 23:12:32,221 - INFO - Concordance Index (C-index): 0.6743
+2025-04-20 23:12:34,716 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 23:12:35,630 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-20 23:13:13,026 - INFO - Silhouette Score: 0.0871
+2025-04-20 23:13:13,031 - INFO - Accuracy: 0.0000
+2025-04-20 23:13:13,031 - INFO - ARI: 0.0053
+2025-04-20 23:13:13,031 - INFO - NMI: 0.0714
+2025-04-20 23:13:13,031 - INFO - Purity: 0.3913
+2025-04-20 23:13:17,850 - INFO - Multivariate Log-rank test p-value: 4.6602e-02
+2025-04-20 23:13:17,851 - INFO - Concordance Index (C-index): 0.7212
+2025-04-20 23:13:20,490 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 23:13:21,457 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-20 23:14:03,855 - INFO - Silhouette Score: 0.0849
+2025-04-20 23:14:03,859 - INFO - Accuracy: 0.0000
+2025-04-20 23:14:03,859 - INFO - ARI: -0.0021
+2025-04-20 23:14:03,859 - INFO - NMI: 0.0436
+2025-04-20 23:14:03,859 - INFO - Purity: 0.4130
+2025-04-20 23:14:08,757 - INFO - Multivariate Log-rank test p-value: 1.1247e-01
+2025-04-20 23:14:08,757 - INFO - Concordance Index (C-index): 0.3522
+2025-04-20 23:14:11,264 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 23:14:12,231 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-20 23:15:22,536 - INFO - Silhouette Score: 0.0875
+2025-04-20 23:15:22,540 - INFO - Accuracy: 0.0000
+2025-04-20 23:15:22,540 - INFO - ARI: 0.0215
+2025-04-20 23:15:22,540 - INFO - NMI: 0.0828
+2025-04-20 23:15:22,540 - INFO - Purity: 0.4348
+2025-04-20 23:15:27,508 - INFO - Multivariate Log-rank test p-value: 9.7499e-02
+2025-04-20 23:15:27,508 - INFO - Concordance Index (C-index): 0.5397
+2025-04-20 23:15:30,351 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 23:15:31,329 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-20 23:19:40,067 - INFO - Silhouette Score: 0.0564
+2025-04-20 23:19:40,071 - INFO - Accuracy: 0.0000
+2025-04-20 23:19:40,071 - INFO - ARI: 0.0028
+2025-04-20 23:19:40,071 - INFO - NMI: 0.0535
+2025-04-20 23:19:40,071 - INFO - Purity: 0.4022
+2025-04-20 23:19:44,941 - INFO - Multivariate Log-rank test p-value: 2.1325e-01
+2025-04-20 23:19:44,942 - INFO - Concordance Index (C-index): 0.4075
+2025-04-20 23:19:47,793 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 23:20:44,987 - INFO - Silhouette Score: 0.0746
+2025-04-20 23:20:44,992 - INFO - Accuracy: 0.0000
+2025-04-20 23:20:44,992 - INFO - ARI: -0.0033
+2025-04-20 23:20:44,992 - INFO - NMI: 0.0603
+2025-04-20 23:20:44,992 - INFO - Purity: 0.4022
+2025-04-20 23:20:49,529 - INFO - Multivariate Log-rank test p-value: 2.6895e-01
+2025-04-20 23:20:49,529 - INFO - Concordance Index (C-index): 0.4207
+2025-04-20 23:20:52,176 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 23:20:53,126 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-20 23:24:07,502 - INFO - Silhouette Score: 0.0775
+2025-04-20 23:24:07,507 - INFO - Accuracy: 0.0000
+2025-04-20 23:24:07,507 - INFO - ARI: -0.0089
+2025-04-20 23:24:07,507 - INFO - NMI: 0.0278
+2025-04-20 23:24:07,507 - INFO - Purity: 0.4130
+2025-04-20 23:24:12,166 - INFO - Multivariate Log-rank test p-value: 2.5560e-01
+2025-04-20 23:24:12,167 - INFO - Concordance Index (C-index): 0.3570
+2025-04-20 23:24:14,765 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 23:25:23,397 - INFO - Silhouette Score: 0.0705
+2025-04-20 23:25:23,401 - INFO - Accuracy: 0.0000
+2025-04-20 23:25:23,401 - INFO - ARI: -0.0013
+2025-04-20 23:25:23,401 - INFO - NMI: 0.0672
+2025-04-20 23:25:23,401 - INFO - Purity: 0.4022
+2025-04-20 23:25:28,148 - INFO - Multivariate Log-rank test p-value: 8.2452e-03
+2025-04-20 23:25:28,149 - INFO - Concordance Index (C-index): 0.7512
+2025-04-20 23:25:30,688 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 23:25:31,604 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-20 23:42:49,970 - INFO - Silhouette Score: 0.0697
+2025-04-20 23:42:49,974 - INFO - Accuracy: 0.0000
+2025-04-20 23:42:49,974 - INFO - ARI: 0.0076
+2025-04-20 23:42:49,974 - INFO - NMI: 0.0550
+2025-04-20 23:42:49,974 - INFO - Purity: 0.4130
+2025-04-20 23:42:55,216 - INFO - Multivariate Log-rank test p-value: 1.0772e-01
+2025-04-20 23:42:55,217 - INFO - Concordance Index (C-index): 0.5889
+2025-04-20 23:44:02,948 - INFO - Silhouette Score: 0.0697
+2025-04-20 23:44:02,952 - INFO - Accuracy: 0.0000
+2025-04-20 23:44:02,952 - INFO - ARI: 0.0076
+2025-04-20 23:44:02,952 - INFO - NMI: 0.0550
+2025-04-20 23:44:02,952 - INFO - Purity: 0.4130
+2025-04-20 23:44:07,787 - INFO - Multivariate Log-rank test p-value: 1.0772e-01
+2025-04-20 23:44:07,788 - INFO - Concordance Index (C-index): 0.5889
+2025-04-20 23:44:10,531 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 23:45:33,676 - INFO - Silhouette Score: 0.0771
+2025-04-20 23:45:33,680 - INFO - Accuracy: 0.0000
+2025-04-20 23:45:33,680 - INFO - ARI: 0.0045
+2025-04-20 23:45:33,680 - INFO - NMI: 0.0713
+2025-04-20 23:45:33,680 - INFO - Purity: 0.3913
+2025-04-20 23:45:38,606 - INFO - Multivariate Log-rank test p-value: 4.2813e-02
+2025-04-20 23:45:38,607 - INFO - Concordance Index (C-index): 0.4892
+2025-04-20 23:48:33,579 - INFO - Silhouette Score: 0.0645
+2025-04-20 23:48:33,586 - INFO - Accuracy: 0.0000
+2025-04-20 23:48:33,586 - INFO - ARI: -0.0114
+2025-04-20 23:48:33,586 - INFO - NMI: 0.0549
+2025-04-20 23:48:33,586 - INFO - Purity: 0.3913
+2025-04-20 23:48:38,344 - INFO - Multivariate Log-rank test p-value: 1.4523e-01
+2025-04-20 23:48:38,345 - INFO - Concordance Index (C-index): 0.4555
+2025-04-20 23:48:41,142 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 23:48:42,109 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-20 23:49:43,551 - INFO - Silhouette Score: 0.0709
+2025-04-20 23:49:43,555 - INFO - Accuracy: 0.0000
+2025-04-20 23:49:43,555 - INFO - ARI: 0.0089
+2025-04-20 23:49:43,555 - INFO - NMI: 0.0415
+2025-04-20 23:49:43,555 - INFO - Purity: 0.3913
+2025-04-20 23:49:48,381 - INFO - Multivariate Log-rank test p-value: 2.3542e-01
+2025-04-20 23:49:48,381 - INFO - Concordance Index (C-index): 0.3786
+2025-04-20 23:49:51,100 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 23:50:46,853 - INFO - Silhouette Score: 0.0527
+2025-04-20 23:50:46,857 - INFO - Accuracy: 0.0000
+2025-04-20 23:50:46,857 - INFO - ARI: 0.0107
+2025-04-20 23:50:46,857 - INFO - NMI: 0.1423
+2025-04-20 23:50:46,857 - INFO - Purity: 0.4891
+2025-04-20 23:50:51,832 - INFO - Multivariate Log-rank test p-value: 1.9004e-01
+2025-04-20 23:50:51,833 - INFO - Concordance Index (C-index): 0.5000
+2025-04-20 23:50:54,737 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 23:50:55,675 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-20 23:51:47,562 - INFO - Silhouette Score: 0.0376
+2025-04-20 23:51:47,567 - INFO - Accuracy: 0.0000
+2025-04-20 23:51:47,567 - INFO - ARI: 0.0017
+2025-04-20 23:51:47,567 - INFO - NMI: 0.2760
+2025-04-20 23:51:47,567 - INFO - Purity: 0.5978
+2025-04-20 23:51:52,709 - INFO - Multivariate Log-rank test p-value: 6.4442e-01
+2025-04-20 23:51:52,709 - INFO - Concordance Index (C-index): 0.4495
+2025-04-20 23:51:55,598 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 23:57:21,271 - INFO - Silhouette Score: 0.0920
+2025-04-20 23:57:21,276 - INFO - Accuracy: 0.0000
+2025-04-20 23:57:21,276 - INFO - ARI: -0.0012
+2025-04-20 23:57:21,276 - INFO - NMI: 0.0527
+2025-04-20 23:57:21,276 - INFO - Purity: 0.4130
+2025-04-20 23:57:26,109 - INFO - Multivariate Log-rank test p-value: 6.0470e-02
+2025-04-20 23:57:26,110 - INFO - Concordance Index (C-index): 0.4207
+2025-04-20 23:57:28,713 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-20 23:57:29,670 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-20 23:58:24,491 - INFO - Silhouette Score: 0.0920
+2025-04-20 23:58:24,496 - INFO - Accuracy: 0.0000
+2025-04-20 23:58:24,497 - INFO - ARI: -0.0012
+2025-04-20 23:58:24,497 - INFO - NMI: 0.0527
+2025-04-20 23:58:24,497 - INFO - Purity: 0.4130
+2025-04-20 23:58:29,139 - INFO - Multivariate Log-rank test p-value: 6.0470e-02
+2025-04-20 23:58:29,140 - INFO - Concordance Index (C-index): 0.4207
+2025-04-20 23:58:31,744 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 00:01:07,773 - INFO - Silhouette Score: 0.0705
+2025-04-21 00:01:07,777 - INFO - Accuracy: 0.0000
+2025-04-21 00:01:07,777 - INFO - ARI: -0.0013
+2025-04-21 00:01:07,777 - INFO - NMI: 0.0672
+2025-04-21 00:01:07,778 - INFO - Purity: 0.4022
+2025-04-21 00:01:12,604 - INFO - Multivariate Log-rank test p-value: 8.2452e-03
+2025-04-21 00:01:12,605 - INFO - Concordance Index (C-index): 0.7512
+2025-04-21 00:01:14,996 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 00:01:15,911 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 16:36:15,151 - INFO - Silhouette Score: 0.0977
+2025-04-21 16:36:15,172 - INFO - Accuracy: 0.0000
+2025-04-21 16:36:15,172 - INFO - ARI: 0.0116
+2025-04-21 16:36:15,172 - INFO - NMI: 0.0631
+2025-04-21 16:36:15,172 - INFO - Purity: 0.4130
+2025-04-21 16:36:19,995 - INFO - Multivariate Log-rank test p-value: 5.4405e-02
+2025-04-21 16:36:19,995 - INFO - Concordance Index (C-index): 0.3774
+2025-04-21 16:36:22,706 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 16:36:23,827 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 16:37:32,122 - INFO - Silhouette Score: 0.1325
+2025-04-21 16:37:32,126 - INFO - Accuracy: 0.0000
+2025-04-21 16:37:32,126 - INFO - ARI: -0.0047
+2025-04-21 16:37:32,126 - INFO - NMI: 0.0586
+2025-04-21 16:37:32,126 - INFO - Purity: 0.4022
+2025-04-21 16:37:37,190 - INFO - Multivariate Log-rank test p-value: 4.6149e-02
+2025-04-21 16:37:37,190 - INFO - Concordance Index (C-index): 0.3594
+2025-04-21 16:38:29,892 - INFO - Silhouette Score: 0.0916
+2025-04-21 16:38:29,896 - INFO - Accuracy: 0.0000
+2025-04-21 16:38:29,896 - INFO - ARI: 0.0143
+2025-04-21 16:38:29,896 - INFO - NMI: 0.0662
+2025-04-21 16:38:29,896 - INFO - Purity: 0.4130
+2025-04-21 16:38:34,763 - INFO - Multivariate Log-rank test p-value: 2.5665e-02
+2025-04-21 16:38:34,763 - INFO - Concordance Index (C-index): 0.7296
+2025-04-21 16:38:37,366 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 16:38:38,282 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 16:39:18,824 - INFO - Silhouette Score: 0.0916
+2025-04-21 16:39:18,841 - INFO - Accuracy: 0.0000
+2025-04-21 16:39:18,841 - INFO - ARI: 0.0143
+2025-04-21 16:39:18,841 - INFO - NMI: 0.0662
+2025-04-21 16:39:18,841 - INFO - Purity: 0.4130
+2025-04-21 16:39:23,698 - INFO - Multivariate Log-rank test p-value: 2.5665e-02
+2025-04-21 16:39:23,699 - INFO - Concordance Index (C-index): 0.7296
+2025-04-21 16:39:26,583 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 16:39:27,532 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 16:40:07,496 - INFO - Silhouette Score: 0.0916
+2025-04-21 16:40:07,500 - INFO - Accuracy: 0.0000
+2025-04-21 16:40:07,501 - INFO - ARI: 0.0143
+2025-04-21 16:40:07,501 - INFO - NMI: 0.0662
+2025-04-21 16:40:07,501 - INFO - Purity: 0.4130
+2025-04-21 16:40:12,307 - INFO - Multivariate Log-rank test p-value: 2.5665e-02
+2025-04-21 16:40:12,307 - INFO - Concordance Index (C-index): 0.7296
+2025-04-21 16:40:14,956 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 16:40:56,109 - INFO - Silhouette Score: 0.0910
+2025-04-21 16:40:56,114 - INFO - Accuracy: 0.0000
+2025-04-21 16:40:56,114 - INFO - ARI: 0.0146
+2025-04-21 16:40:56,114 - INFO - NMI: 0.0660
+2025-04-21 16:40:56,114 - INFO - Purity: 0.4239
+2025-04-21 16:41:00,769 - INFO - Multivariate Log-rank test p-value: 9.3058e-02
+2025-04-21 16:41:00,769 - INFO - Concordance Index (C-index): 0.4784
+2025-04-21 16:41:03,487 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 16:41:35,645 - INFO - Silhouette Score: 0.0980
+2025-04-21 16:41:35,649 - INFO - Accuracy: 0.0000
+2025-04-21 16:41:35,649 - INFO - ARI: 0.0275
+2025-04-21 16:41:35,649 - INFO - NMI: 0.0773
+2025-04-21 16:41:35,649 - INFO - Purity: 0.4239
+2025-04-21 16:41:40,593 - INFO - Multivariate Log-rank test p-value: 9.0782e-02
+2025-04-21 16:41:40,594 - INFO - Concordance Index (C-index): 0.7151
+2025-04-21 16:41:43,132 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 16:41:44,104 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 16:42:22,345 - INFO - Silhouette Score: 0.1034
+2025-04-21 16:42:22,349 - INFO - Accuracy: 0.0000
+2025-04-21 16:42:22,349 - INFO - ARI: 0.0052
+2025-04-21 16:42:22,349 - INFO - NMI: 0.0603
+2025-04-21 16:42:22,349 - INFO - Purity: 0.4022
+2025-04-21 16:42:27,300 - INFO - Multivariate Log-rank test p-value: 5.2116e-02
+2025-04-21 16:42:27,300 - INFO - Concordance Index (C-index): 0.3173
+2025-04-21 16:42:29,979 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 16:42:30,900 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 16:43:05,713 - INFO - Silhouette Score: 0.1365
+2025-04-21 16:43:05,717 - INFO - Accuracy: 0.0000
+2025-04-21 16:43:05,717 - INFO - ARI: -0.0058
+2025-04-21 16:43:05,717 - INFO - NMI: 0.0414
+2025-04-21 16:43:05,717 - INFO - Purity: 0.4130
+2025-04-21 16:43:10,539 - INFO - Multivariate Log-rank test p-value: 1.4162e-01
+2025-04-21 16:43:10,540 - INFO - Concordance Index (C-index): 0.4038
+2025-04-21 16:43:41,658 - INFO - Silhouette Score: 0.0873
+2025-04-21 16:43:41,662 - INFO - Accuracy: 0.0000
+2025-04-21 16:43:41,662 - INFO - ARI: 0.0368
+2025-04-21 16:43:41,662 - INFO - NMI: 0.1023
+2025-04-21 16:43:41,662 - INFO - Purity: 0.4457
+2025-04-21 16:43:46,511 - INFO - Multivariate Log-rank test p-value: 3.0042e-02
+2025-04-21 16:43:46,511 - INFO - Concordance Index (C-index): 0.6815
+2025-04-21 16:43:49,162 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 16:43:50,133 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 16:44:33,400 - INFO - Silhouette Score: 0.0953
+2025-04-21 16:44:33,409 - INFO - Accuracy: 0.0000
+2025-04-21 16:44:33,409 - INFO - ARI: 0.0130
+2025-04-21 16:44:33,409 - INFO - NMI: 0.0686
+2025-04-21 16:44:33,409 - INFO - Purity: 0.4022
+2025-04-21 16:44:38,076 - INFO - Multivariate Log-rank test p-value: 1.7456e-01
+2025-04-21 16:44:38,076 - INFO - Concordance Index (C-index): 0.3978
+2025-04-21 16:44:40,606 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 16:44:41,547 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 16:45:18,913 - INFO - Silhouette Score: 0.0775
+2025-04-21 16:45:18,917 - INFO - Accuracy: 0.0000
+2025-04-21 16:45:18,917 - INFO - ARI: 0.0046
+2025-04-21 16:45:18,917 - INFO - NMI: 0.0533
+2025-04-21 16:45:18,917 - INFO - Purity: 0.4130
+2025-04-21 16:45:23,933 - INFO - Multivariate Log-rank test p-value: 1.7059e-01
+2025-04-21 16:45:23,933 - INFO - Concordance Index (C-index): 0.6851
+2025-04-21 16:49:09,472 - INFO - Silhouette Score: 0.0470
+2025-04-21 16:49:09,476 - INFO - Accuracy: 0.0000
+2025-04-21 16:49:09,477 - INFO - ARI: 0.0026
+2025-04-21 16:49:09,477 - INFO - NMI: 0.2513
+2025-04-21 16:49:09,477 - INFO - Purity: 0.5870
+2025-04-21 16:49:14,788 - INFO - Multivariate Log-rank test p-value: 9.4495e-01
+2025-04-21 16:49:14,789 - INFO - Concordance Index (C-index): 0.5036
+2025-04-21 16:49:17,418 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 16:49:18,564 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 16:51:42,307 - INFO - Silhouette Score: 0.0460
+2025-04-21 16:51:42,312 - INFO - Accuracy: 0.0000
+2025-04-21 16:51:42,312 - INFO - ARI: -0.0061
+2025-04-21 16:51:42,312 - INFO - NMI: 0.2891
+2025-04-21 16:51:42,312 - INFO - Purity: 0.6087
+2025-04-21 16:51:47,650 - INFO - Multivariate Log-rank test p-value: 1.6715e-09
+2025-04-21 16:51:47,651 - INFO - Concordance Index (C-index): 0.6935
+2025-04-21 16:51:50,220 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 16:51:51,405 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 16:54:13,880 - INFO - Silhouette Score: 0.0460
+2025-04-21 16:54:13,885 - INFO - Accuracy: 0.0000
+2025-04-21 16:54:13,885 - INFO - ARI: -0.0065
+2025-04-21 16:54:13,885 - INFO - NMI: 0.2456
+2025-04-21 16:54:13,885 - INFO - Purity: 0.5761
+2025-04-21 16:54:18,976 - INFO - Multivariate Log-rank test p-value: 2.7773e-01
+2025-04-21 16:54:18,976 - INFO - Concordance Index (C-index): 0.5361
+2025-04-21 16:54:21,586 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 16:55:29,311 - INFO - Silhouette Score: 0.0426
+2025-04-21 16:55:29,323 - INFO - Accuracy: 0.0000
+2025-04-21 16:55:29,324 - INFO - ARI: 0.0144
+2025-04-21 16:55:29,324 - INFO - NMI: 0.1844
+2025-04-21 16:55:29,324 - INFO - Purity: 0.4891
+2025-04-21 16:55:34,085 - INFO - Multivariate Log-rank test p-value: 3.8124e-01
+2025-04-21 16:55:34,085 - INFO - Concordance Index (C-index): 0.3798
+2025-04-21 16:55:36,910 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 16:56:52,110 - INFO - Silhouette Score: 0.0459
+2025-04-21 16:56:52,119 - INFO - Accuracy: 0.0000
+2025-04-21 16:56:52,120 - INFO - ARI: -0.0000
+2025-04-21 16:56:52,120 - INFO - NMI: 0.2731
+2025-04-21 16:56:52,120 - INFO - Purity: 0.5761
+2025-04-21 16:56:57,209 - INFO - Multivariate Log-rank test p-value: 1.6383e-01
+2025-04-21 16:56:57,209 - INFO - Concordance Index (C-index): 0.3870
+2025-04-21 16:56:59,879 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 16:57:43,541 - INFO - Silhouette Score: 0.0705
+2025-04-21 16:57:43,545 - INFO - Accuracy: 0.0000
+2025-04-21 16:57:43,545 - INFO - ARI: -0.0013
+2025-04-21 16:57:43,545 - INFO - NMI: 0.0672
+2025-04-21 16:57:43,545 - INFO - Purity: 0.4022
+2025-04-21 16:57:48,433 - INFO - Multivariate Log-rank test p-value: 8.2452e-03
+2025-04-21 16:57:48,433 - INFO - Concordance Index (C-index): 0.7512
+2025-04-21 16:57:51,114 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 16:57:52,026 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 23:00:17,022 - INFO - Silhouette Score: 0.0628
+2025-04-21 23:00:17,038 - INFO - Accuracy: 0.0000
+2025-04-21 23:00:17,038 - INFO - ARI: -0.0034
+2025-04-21 23:00:17,038 - INFO - NMI: 0.0565
+2025-04-21 23:00:17,038 - INFO - Purity: 0.4457
+2025-04-21 23:00:21,949 - INFO - Multivariate Log-rank test p-value: 1.5763e-01
+2025-04-21 23:00:21,950 - INFO - Concordance Index (C-index): 0.5481
+2025-04-21 23:00:24,574 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 23:00:25,709 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 23:01:12,868 - INFO - Silhouette Score: 0.0558
+2025-04-21 23:01:12,874 - INFO - Accuracy: 0.0000
+2025-04-21 23:01:12,874 - INFO - ARI: 0.0297
+2025-04-21 23:01:12,874 - INFO - NMI: 0.1209
+2025-04-21 23:01:12,874 - INFO - Purity: 0.4891
+2025-04-21 23:01:17,837 - INFO - Multivariate Log-rank test p-value: 2.1535e-01
+2025-04-21 23:01:17,837 - INFO - Concordance Index (C-index): 0.5950
+2025-04-21 23:01:20,579 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 23:01:21,636 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 23:02:07,247 - INFO - Silhouette Score: 0.0580
+2025-04-21 23:02:07,252 - INFO - Accuracy: 0.0000
+2025-04-21 23:02:07,252 - INFO - ARI: 0.0101
+2025-04-21 23:02:07,252 - INFO - NMI: 0.1239
+2025-04-21 23:02:07,252 - INFO - Purity: 0.4891
+2025-04-21 23:02:12,177 - INFO - Multivariate Log-rank test p-value: 1.9237e-01
+2025-04-21 23:02:12,177 - INFO - Concordance Index (C-index): 0.4195
+2025-04-21 23:02:14,811 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 23:02:15,811 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 23:02:58,727 - INFO - Silhouette Score: 0.0538
+2025-04-21 23:02:58,734 - INFO - Accuracy: 0.0000
+2025-04-21 23:02:58,735 - INFO - ARI: 0.0374
+2025-04-21 23:02:58,735 - INFO - NMI: 0.1397
+2025-04-21 23:02:58,737 - INFO - Purity: 0.5217
+2025-04-21 23:03:03,584 - INFO - Multivariate Log-rank test p-value: 2.2289e-01
+2025-04-21 23:03:03,584 - INFO - Concordance Index (C-index): 0.4447
+2025-04-21 23:03:06,143 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 23:03:07,191 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 23:16:33,422 - INFO - Silhouette Score: 0.1045
+2025-04-21 23:16:33,427 - INFO - Accuracy: 0.0000
+2025-04-21 23:16:33,428 - INFO - ARI: 0.0208
+2025-04-21 23:16:33,428 - INFO - NMI: 0.0544
+2025-04-21 23:16:33,428 - INFO - Purity: 0.4457
+2025-04-21 23:16:38,644 - INFO - Multivariate Log-rank test p-value: 1.6480e-01
+2025-04-21 23:16:38,644 - INFO - Concordance Index (C-index): 0.3858
+2025-04-21 23:16:41,432 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 23:16:42,530 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 23:17:46,518 - INFO - Silhouette Score: 0.0979
+2025-04-21 23:17:46,524 - INFO - Accuracy: 0.0000
+2025-04-21 23:17:46,524 - INFO - ARI: 0.0287
+2025-04-21 23:17:46,524 - INFO - NMI: 0.0955
+2025-04-21 23:17:46,524 - INFO - Purity: 0.4239
+2025-04-21 23:17:51,447 - INFO - Multivariate Log-rank test p-value: 3.8873e-02
+2025-04-21 23:17:51,447 - INFO - Concordance Index (C-index): 0.5733
+2025-04-21 23:17:54,129 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 23:17:55,170 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 23:18:50,950 - INFO - Silhouette Score: 0.0881
+2025-04-21 23:18:50,956 - INFO - Accuracy: 0.0000
+2025-04-21 23:18:50,956 - INFO - ARI: 0.0241
+2025-04-21 23:18:50,956 - INFO - NMI: 0.0719
+2025-04-21 23:18:50,956 - INFO - Purity: 0.4457
+2025-04-21 23:18:58,640 - INFO - Multivariate Log-rank test p-value: 2.4259e-01
+2025-04-21 23:18:58,640 - INFO - Concordance Index (C-index): 0.6635
+2025-04-21 23:19:03,407 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 23:19:04,437 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 23:19:32,046 - INFO - Silhouette Score: 0.0499
+2025-04-21 23:19:32,051 - INFO - Accuracy: 0.0000
+2025-04-21 23:19:32,052 - INFO - ARI: 0.0344
+2025-04-21 23:19:32,052 - INFO - NMI: 0.0559
+2025-04-21 23:19:32,052 - INFO - Purity: 0.4783
+2025-04-21 23:19:39,198 - INFO - Multivariate Log-rank test p-value: 3.4769e-01
+2025-04-21 23:19:39,199 - INFO - Concordance Index (C-index): 0.3209
+2025-04-21 23:19:44,413 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 23:19:45,428 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 23:20:48,566 - INFO - Silhouette Score: 0.0836
+2025-04-21 23:20:48,572 - INFO - Accuracy: 0.0000
+2025-04-21 23:20:48,572 - INFO - ARI: 0.0172
+2025-04-21 23:20:48,572 - INFO - NMI: 0.0578
+2025-04-21 23:20:48,572 - INFO - Purity: 0.4457
+2025-04-21 23:20:53,285 - INFO - Multivariate Log-rank test p-value: 1.5110e-01
+2025-04-21 23:20:53,286 - INFO - Concordance Index (C-index): 0.4784
+2025-04-21 23:20:55,907 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 23:20:56,955 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 23:21:42,847 - INFO - Silhouette Score: 0.1206
+2025-04-21 23:21:42,852 - INFO - Accuracy: 0.0000
+2025-04-21 23:21:42,852 - INFO - ARI: 0.0349
+2025-04-21 23:21:42,852 - INFO - NMI: 0.0744
+2025-04-21 23:21:42,852 - INFO - Purity: 0.4565
+2025-04-21 23:21:47,552 - INFO - Multivariate Log-rank test p-value: 1.4171e-01
+2025-04-21 23:21:47,553 - INFO - Concordance Index (C-index): 0.5553
+2025-04-21 23:21:50,571 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 23:22:39,800 - INFO - Silhouette Score: 0.1207
+2025-04-21 23:22:39,804 - INFO - Accuracy: 0.0000
+2025-04-21 23:22:39,804 - INFO - ARI: 0.0127
+2025-04-21 23:22:39,804 - INFO - NMI: 0.0559
+2025-04-21 23:22:39,804 - INFO - Purity: 0.4130
+2025-04-21 23:22:44,644 - INFO - Multivariate Log-rank test p-value: 9.9345e-02
+2025-04-21 23:22:44,645 - INFO - Concordance Index (C-index): 0.7200
+2025-04-21 23:22:47,285 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 23:22:48,252 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 23:23:41,390 - INFO - Silhouette Score: 0.1129
+2025-04-21 23:23:41,394 - INFO - Accuracy: 0.0000
+2025-04-21 23:23:41,394 - INFO - ARI: 0.0043
+2025-04-21 23:23:41,394 - INFO - NMI: 0.0468
+2025-04-21 23:23:41,394 - INFO - Purity: 0.4130
+2025-04-21 23:23:46,202 - INFO - Multivariate Log-rank test p-value: 1.3731e-01
+2025-04-21 23:23:46,203 - INFO - Concordance Index (C-index): 0.3774
+2025-04-21 23:23:49,011 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 23:23:49,936 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 23:24:32,194 - INFO - Silhouette Score: 0.1316
+2025-04-21 23:24:32,198 - INFO - Accuracy: 0.0000
+2025-04-21 23:24:32,198 - INFO - ARI: 0.0255
+2025-04-21 23:24:32,198 - INFO - NMI: 0.0887
+2025-04-21 23:24:32,198 - INFO - Purity: 0.4348
+2025-04-21 23:24:37,044 - INFO - Multivariate Log-rank test p-value: 4.9747e-02
+2025-04-21 23:24:37,044 - INFO - Concordance Index (C-index): 0.7296
+2025-04-21 23:24:39,642 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 23:24:40,619 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 23:25:19,296 - INFO - Silhouette Score: 0.1345
+2025-04-21 23:25:19,300 - INFO - Accuracy: 0.0000
+2025-04-21 23:25:19,300 - INFO - ARI: -0.0067
+2025-04-21 23:25:19,300 - INFO - NMI: 0.0416
+2025-04-21 23:25:19,300 - INFO - Purity: 0.4022
+2025-04-21 23:25:24,109 - INFO - Multivariate Log-rank test p-value: 1.4405e-01
+2025-04-21 23:25:24,110 - INFO - Concordance Index (C-index): 0.4940
+2025-04-21 23:25:26,667 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 23:25:27,610 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 23:26:25,892 - INFO - Silhouette Score: 0.1070
+2025-04-21 23:26:25,897 - INFO - Accuracy: 0.0000
+2025-04-21 23:26:25,897 - INFO - ARI: 0.0079
+2025-04-21 23:26:25,897 - INFO - NMI: 0.0540
+2025-04-21 23:26:25,897 - INFO - Purity: 0.4022
+2025-04-21 23:26:30,791 - INFO - Multivariate Log-rank test p-value: 7.0464e-02
+2025-04-21 23:26:30,791 - INFO - Concordance Index (C-index): 0.7332
+2025-04-21 23:26:33,258 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 23:26:34,175 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 23:27:27,734 - INFO - Silhouette Score: 0.1188
+2025-04-21 23:27:27,738 - INFO - Accuracy: 0.0000
+2025-04-21 23:27:27,738 - INFO - ARI: 0.0110
+2025-04-21 23:27:27,738 - INFO - NMI: 0.0490
+2025-04-21 23:27:27,739 - INFO - Purity: 0.4348
+2025-04-21 23:27:32,465 - INFO - Multivariate Log-rank test p-value: 1.4905e-01
+2025-04-21 23:27:32,465 - INFO - Concordance Index (C-index): 0.6983
+2025-04-21 23:27:34,991 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 23:27:35,949 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 23:28:50,235 - INFO - Silhouette Score: 0.1171
+2025-04-21 23:28:50,240 - INFO - Accuracy: 0.0000
+2025-04-21 23:28:50,240 - INFO - ARI: 0.0190
+2025-04-21 23:28:50,240 - INFO - NMI: 0.0828
+2025-04-21 23:28:50,240 - INFO - Purity: 0.4565
+2025-04-21 23:28:54,972 - INFO - Multivariate Log-rank test p-value: 1.7333e-01
+2025-04-21 23:28:54,972 - INFO - Concordance Index (C-index): 0.5733
+2025-04-21 23:28:57,476 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 23:28:58,438 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-21 23:31:32,350 - INFO - Silhouette Score: 0.0705
+2025-04-21 23:31:32,354 - INFO - Accuracy: 0.0000
+2025-04-21 23:31:32,354 - INFO - ARI: -0.0013
+2025-04-21 23:31:32,354 - INFO - NMI: 0.0672
+2025-04-21 23:31:32,354 - INFO - Purity: 0.4022
+2025-04-21 23:31:36,994 - INFO - Multivariate Log-rank test p-value: 8.2452e-03
+2025-04-21 23:31:36,995 - INFO - Concordance Index (C-index): 0.7512
+2025-04-21 23:31:39,630 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-21 23:31:40,601 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-24 10:25:08,004 - INFO - Silhouette Score: 0.0642
+2025-04-24 10:25:08,011 - INFO - Accuracy: 0.0000
+2025-04-24 10:25:08,012 - INFO - ARI: -0.0085
+2025-04-24 10:25:08,012 - INFO - NMI: 0.0578
+2025-04-24 10:25:08,012 - INFO - Purity: 0.3913
+2025-04-24 10:25:12,886 - INFO - Multivariate Log-rank test p-value: 3.6509e-01
+2025-04-24 10:25:12,886 - INFO - Concordance Index (C-index): 0.4856
+2025-04-24 10:25:15,559 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-24 10:25:16,763 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-24 10:28:40,970 - INFO - Silhouette Score: 0.1053
+2025-04-24 10:28:40,981 - INFO - Accuracy: 0.0000
+2025-04-24 10:28:40,981 - INFO - ARI: 0.0098
+2025-04-24 10:28:40,981 - INFO - NMI: 0.0572
+2025-04-24 10:28:40,982 - INFO - Purity: 0.4239
+2025-04-24 10:28:45,805 - INFO - Multivariate Log-rank test p-value: 4.2449e-01
+2025-04-24 10:28:45,806 - INFO - Concordance Index (C-index): 0.5481
+2025-04-24 10:28:48,355 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-24 10:28:49,404 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-24 10:29:29,937 - INFO - Silhouette Score: 0.0804
+2025-04-24 10:29:29,942 - INFO - Accuracy: 0.0000
+2025-04-24 10:29:29,943 - INFO - ARI: -0.0080
+2025-04-24 10:29:29,943 - INFO - NMI: 0.0336
+2025-04-24 10:29:29,943 - INFO - Purity: 0.4130
+2025-04-24 10:29:34,597 - INFO - Multivariate Log-rank test p-value: 2.1015e-01
+2025-04-24 10:29:34,597 - INFO - Concordance Index (C-index): 0.5228
+2025-04-24 10:29:37,245 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-24 10:30:15,121 - INFO - Silhouette Score: 0.0932
+2025-04-24 10:30:15,126 - INFO - Accuracy: 0.0000
+2025-04-24 10:30:15,126 - INFO - ARI: 0.0244
+2025-04-24 10:30:15,126 - INFO - NMI: 0.0743
+2025-04-24 10:30:15,126 - INFO - Purity: 0.4348
+2025-04-24 10:30:20,086 - INFO - Multivariate Log-rank test p-value: 2.3852e-01
+2025-04-24 10:30:20,086 - INFO - Concordance Index (C-index): 0.5204
+2025-04-24 10:31:05,896 - INFO - Silhouette Score: 0.1947
+2025-04-24 10:31:05,900 - INFO - Accuracy: 0.0000
+2025-04-24 10:31:05,900 - INFO - ARI: -0.0093
+2025-04-24 10:31:05,900 - INFO - NMI: 0.0275
+2025-04-24 10:31:05,901 - INFO - Purity: 0.4022
+2025-04-24 10:31:10,852 - INFO - Multivariate Log-rank test p-value: 3.7229e-02
+2025-04-24 10:31:10,853 - INFO - Concordance Index (C-index): 0.6562
+2025-04-24 10:31:13,342 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-24 10:31:14,372 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-24 10:31:54,709 - INFO - Silhouette Score: 0.1271
+2025-04-24 10:31:54,714 - INFO - Accuracy: 0.0000
+2025-04-24 10:31:54,715 - INFO - ARI: 0.0128
+2025-04-24 10:31:54,715 - INFO - NMI: 0.0423
+2025-04-24 10:31:54,715 - INFO - Purity: 0.4457
+2025-04-24 10:31:59,431 - INFO - Multivariate Log-rank test p-value: 9.9404e-02
+2025-04-24 10:31:59,431 - INFO - Concordance Index (C-index): 0.6526
+2025-04-24 10:32:02,172 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-24 10:32:03,088 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-24 10:32:47,410 - INFO - Silhouette Score: 0.1132
+2025-04-24 10:32:47,414 - INFO - Accuracy: 0.0000
+2025-04-24 10:32:47,414 - INFO - ARI: 0.0123
+2025-04-24 10:32:47,414 - INFO - NMI: 0.0646
+2025-04-24 10:32:47,414 - INFO - Purity: 0.4565
+2025-04-24 10:32:52,291 - INFO - Multivariate Log-rank test p-value: 3.8378e-01
+2025-04-24 10:32:52,291 - INFO - Concordance Index (C-index): 0.6022
+2025-04-24 10:32:54,947 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-24 10:32:55,914 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-24 10:33:36,368 - INFO - Silhouette Score: 0.0897
+2025-04-24 10:33:36,373 - INFO - Accuracy: 0.0000
+2025-04-24 10:33:36,373 - INFO - ARI: 0.0075
+2025-04-24 10:33:36,373 - INFO - NMI: 0.0643
+2025-04-24 10:33:36,373 - INFO - Purity: 0.4130
+2025-04-24 10:33:41,061 - INFO - Multivariate Log-rank test p-value: 5.2279e-02
+2025-04-24 10:33:41,062 - INFO - Concordance Index (C-index): 0.3594
+2025-04-24 10:33:43,611 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-24 10:33:44,554 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-24 10:34:17,002 - INFO - Silhouette Score: 0.0860
+2025-04-24 10:34:17,010 - INFO - Accuracy: 0.0000
+2025-04-24 10:34:17,010 - INFO - ARI: 0.0100
+2025-04-24 10:34:17,010 - INFO - NMI: 0.0474
+2025-04-24 10:34:17,010 - INFO - Purity: 0.4130
+2025-04-24 10:34:21,927 - INFO - Multivariate Log-rank test p-value: 3.5639e-01
+2025-04-24 10:34:21,927 - INFO - Concordance Index (C-index): 0.6418
+2025-04-24 10:34:24,590 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-24 10:34:25,538 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-24 10:35:29,085 - INFO - Silhouette Score: 0.0851
+2025-04-24 10:35:29,090 - INFO - Accuracy: 0.0000
+2025-04-24 10:35:29,090 - INFO - ARI: 0.0176
+2025-04-24 10:35:29,090 - INFO - NMI: 0.0780
+2025-04-24 10:35:29,090 - INFO - Purity: 0.4457
+2025-04-24 10:35:33,844 - INFO - Multivariate Log-rank test p-value: 4.1878e-02
+2025-04-24 10:35:33,844 - INFO - Concordance Index (C-index): 0.5565
+2025-04-24 11:27:11,359 - INFO - Silhouette Score: 0.0705
+2025-04-24 11:27:11,365 - INFO - Accuracy: 0.0000
+2025-04-24 11:27:11,365 - INFO - ARI: -0.0013
+2025-04-24 11:27:11,365 - INFO - NMI: 0.0672
+2025-04-24 11:27:11,365 - INFO - Purity: 0.4022
+2025-04-24 11:27:16,160 - INFO - Multivariate Log-rank test p-value: 8.2452e-03
+2025-04-24 11:27:16,160 - INFO - Concordance Index (C-index): 0.7512
+2025-04-24 11:27:18,805 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-24 11:27:19,883 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-24 11:31:33,989 - INFO - Silhouette Score: 0.1736
+2025-04-24 11:31:33,994 - INFO - Accuracy: 0.0000
+2025-04-24 11:31:33,994 - INFO - ARI: 0.0052
+2025-04-24 11:31:33,994 - INFO - NMI: 0.0439
+2025-04-24 11:31:33,994 - INFO - Purity: 0.4239
+2025-04-24 11:31:38,667 - INFO - Multivariate Log-rank test p-value: 7.9949e-02
+2025-04-24 11:31:38,668 - INFO - Concordance Index (C-index): 0.3786
+2025-04-24 11:31:41,424 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-24 11:32:42,948 - INFO - Silhouette Score: 0.0705
+2025-04-24 11:32:42,965 - INFO - Accuracy: 0.0000
+2025-04-24 11:32:42,965 - INFO - ARI: -0.0013
+2025-04-24 11:32:42,965 - INFO - NMI: 0.0672
+2025-04-24 11:32:42,965 - INFO - Purity: 0.4022
+2025-04-24 11:32:47,886 - INFO - Multivariate Log-rank test p-value: 8.2452e-03
+2025-04-24 11:32:47,887 - INFO - Concordance Index (C-index): 0.7512
+2025-04-24 11:32:50,783 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-24 11:32:51,787 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)
+2025-04-24 11:35:26,482 - INFO - Silhouette Score: 0.0705
+2025-04-24 11:35:26,487 - INFO - Accuracy: 0.0000
+2025-04-24 11:35:26,487 - INFO - ARI: -0.0013
+2025-04-24 11:35:26,487 - INFO - NMI: 0.0672
+2025-04-24 11:35:26,487 - INFO - Purity: 0.4022
+2025-04-24 11:35:31,136 - INFO - Multivariate Log-rank test p-value: 8.2452e-03
+2025-04-24 11:35:31,137 - INFO - Concordance Index (C-index): 0.7512
+2025-04-24 11:35:33,722 - INFO - ✅ Evaluation complete and metrics saved.
+2025-04-24 11:35:34,707 - INFO - ✅ UMAP visualizations saved (2D PNG, 3D HTML)

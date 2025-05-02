@@ -1,0 +1,112 @@
+
+Copyright © 2025 Atahan Karagöz  
+All rights reserved.
+
+────────────────────────────────────────────────────────────
+OVERVIEW
+────────────────────────────────────────────────────────────
+This LICENSE governs the use, reproduction, modification, distribution, and publication of all source code, scripts, documentation, models, datasets, outputs, visualizations, and other associated files (collectively referred to as "OmicsCL") contained within this repository. The contents are the exclusive intellectual property of Atahan Karagöz.
+
+OmicsCL is a research-grade software project developed for academic study in the field of machine learning and computational biology, with a specific focus on unsupervised representation learning from multi-omics data. It includes novel architectural designs, survival-aware contrastive loss functions, preprocessing techniques, model training pipelines, and evaluation scripts that collectively form a modular, end-to-end system for cancer subtype discovery.
+
+This license is NOT an open-source license. This repository is made publicly visible solely to demonstrate reproducibility of published research, and to allow other researchers to evaluate the results and methodology under strict conditions of non-use without permission.
+
+────────────────────────────────────────────────────────────
+1. DEFINITIONS
+────────────────────────────────────────────────────────────
+"Repository" or "Software" refers to the OmicsCL GitHub repository and its contents, including:
+  - All code (source, compiled, or scripts)
+  - Model definitions, weights, checkpoints, loss functions
+  - Preprocessing pipelines and all intermediate/processed datasets
+  - Evaluation, visualization, and logging tools
+  - Documentation, README files, and this LICENSE
+
+"Author" refers to Atahan Karagöz, the original and sole copyright holder.
+
+"User" refers to any individual or entity that accesses this repository in any way, including but not limited to cloning, downloading, browsing, or copying contents.
+
+────────────────────────────────────────────────────────────
+2. PERMITTED USES
+────────────────────────────────────────────────────────────
+Users MAY:
+  - Clone or fork the repository to study its structure, inspect code, or explore its architecture for educational purposes
+  - Read and refer to the scientific findings and evaluations provided in the associated publication
+
+Users MAY NOT, under any circumstances, without prior written permission:
+  - Use the code or portions of it in their own academic or commercial projects
+  - Modify, adapt, repurpose, or build derivative works based on this repository
+  - Use the loss functions, architectures, or any techniques introduced here for new models or datasets
+  - Use or publish any trained models, saved embeddings, visualizations, or logs in any derivative publication
+  - Distribute or share this repository or its modified versions with third parties
+  - Use this repository or its contents for consulting, contract work, or client deliverables
+  - Train or fine-tune any machine learning models, including large language models (LLMs), using the code, outputs, or derived data from this repository
+  - Transfer this license or any rights to another party without explicit written consent
+
+────────────────────────────────────────────────────────────
+3. DATASETS AND PREPROCESSING SCRIPTS
+────────────────────────────────────────────────────────────
+This repository includes preprocessing scripts designed to clean, normalize, and align public multi-omics datasets such as TCGA BRCA. These scripts are essential for reproducing results as described in the associated publication.
+
+Important Notices:
+  - No raw datasets are distributed in this repository. All biological and clinical datasets must be acquired separately from their official sources (e.g., TCGA via GDC, dbGaP, or other authorized platforms).
+  - Preprocessing scripts provided here are tailored to the structure and format of specific datasets. While initially developed for TCGA BRCA, future scripts and data-specific tools may be added. Unless otherwise noted, all preprocessing scripts remain subject to the same license terms and usage restrictions.
+  - You bear sole responsibility for complying with the usage policies, licensing agreements, and privacy protections required by any dataset provider or regulatory authority.
+  - Using these preprocessing scripts without explicit permission is a violation of this license, regardless of the dataset you apply them to.
+  - This clause applies retroactively and prospectively to any dataset-specific utilities added to this repository.
+
+────────────────────────────────────────────────────────────
+4. OUTPUTS AND INTELLECTUAL PROPERTY
+────────────────────────────────────────────────────────────
+All trained model files, generated embeddings, survival plots, and visualization outputs are intellectual property of the author. These outputs:
+  - MAY NOT be redistributed
+  - MAY NOT be reused in figures or analyses
+  - MAY NOT be used to create competing tools or services
+
+The configuration of hyperparameters, architectural choices, contrastive training schemes, and evaluation strategies are considered integral components of OmicsCL and are protected under this license.
+
+────────────────────────────────────────────────────────────
+5. ATTRIBUTION AND PUBLICATION
+────────────────────────────────────────────────────────────
+If you reference this work, you must cite:
+
+    Karagöz, A. "OmicsCL: Unsupervised Contrastive Learning for Cancer Subtype Discovery and Survival Stratification." arXiv, 2025.  
+    Link: https://arxiv.org/abs/2505.00650
+
+Do NOT list the software under “code available at” without the author’s permission.  
+Instead, link to the official repository and state: “Code accessible with permission from the author.”
+
+────────────────────────────────────────────────────────────
+6. REQUESTING PERMISSION
+────────────────────────────────────────────────────────────
+To use any portion of this repository in your own work, please submit a request including:
+  - Name, affiliation, and role
+  - Intended use case (research, teaching, clinical, etc.)
+  - Whether modification or redistribution is planned
+  - Duration of intended use
+
+Send your request to:  
+  📧 atahan.karagoez@stud.unibas.ch
+
+Permission is not guaranteed and may require additional conditions or co-authorship, especially for reuse in published research or derivative software.
+
+────────────────────────────────────────────────────────────
+7. LIABILITY, WARRANTY, AND DISCLAIMER
+────────────────────────────────────────────────────────────
+This software is provided “AS IS,” without warranty of any kind, express or implied. The author disclaims all liability for any damages, errors, or inaccuracies arising from the use or inability to use this software.
+
+There is no guarantee of maintenance, updates, or continued availability of this repository.
+
+────────────────────────────────────────────────────────────
+8. TERMINATION AND ENFORCEMENT
+────────────────────────────────────────────────────────────
+This license is immediately and automatically terminated if any part is violated. The author reserves the right to revoke access to any user or institution at any time for any reason, including but not limited to violation of these terms, misuse, or unauthorized derivative work.
+
+────────────────────────────────────────────────────────────
+9. GOVERNING LAW AND JURISDICTION
+────────────────────────────────────────────────────────────
+This agreement shall be governed by and interpreted under the laws of Switzerland.  
+All legal actions or proceedings shall be brought exclusively in the competent courts of Basel-Stadt, Switzerland.
+
+────────────────────────────────────────────────────────────
+END OF LICENSE
+────────────────────────────────────────────────────────────
