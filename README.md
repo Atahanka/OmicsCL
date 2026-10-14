@@ -7,6 +7,8 @@ OmicsCL is a modular framework for unsupervised learning of survival-relevant re
 
 ## 🚀 Paper
 
+[![DOI](https://zenodo.org/badge/976522935.svg)](https://doi.org/10.5281/zenodo.23365346)
+
 Read the full paper on arXiv: [OmicsCL: Unsupervised Contrastive Learning for Cancer Subtype Discovery and Survival Stratification](https://arxiv.org/abs/2505.00650)
 
 ---
